@@ -1,3993 +1,119 @@
 [
  {
-  "key": "amazon_it:B0D26RVKTZ",
+  "key": "amazon_it:B0G35LY7KK",
   "source": "amazon_it",
   "category": "altro",
-  "name": "MAM Biberon Anticolica Easy Start 160 ml, Tettarella Misura 1, Lilla",
-  "price": 17.99,
-  "ref": 44.31,
-  "pct": 59.4,
+  "name": "Relaxd Graphic Crew Desert BW Navy Blaze",
+  "price": 31.93,
+  "ref": 70.87,
+  "pct": 54.9,
   "level": "offerta",
   "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0D26RVKTZ?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/21WQyeMH8rL.jpg",
+  "url": "https://www.amazon.it/dp/B0G35LY7KK?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/310D8ZqC6fL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
-    "2026-08-20",
-    22.99
+    "2026-10-02",
+    70.9
    ],
    [
-    "2026-08-21",
-    31.99
-   ],
-   [
-    "2026-08-25",
-    29.43
-   ],
-   [
-    "2026-08-28",
-    29.14
-   ],
-   [
-    "2026-09-02",
-    39.99
-   ],
-   [
-    "2026-09-18",
-    54.99
-   ],
-   [
-    "2026-10-10",
-    43.44
-   ],
-   [
-    "2026-10-14",
-    35.19
-   ],
-   [
-    "2026-10-16",
-    48.99
+    "2026-11-12",
+    70.9
    ],
    [
     "2026-11-15",
-    17.99
+    31.93
    ]
   ]
  },
  {
-  "key": "amazon_it:B01H1FAJYS",
+  "key": "amazon_it:B0DKVMYXYQ",
   "source": "amazon_it",
   "category": "altro",
-  "name": "Nobby, Guinzaglio 2 m – Classic preno",
-  "price": 17.6,
-  "ref": 41.59,
-  "pct": 57.7,
+  "name": "Columbia Burnsider Omni-Heat Infinity Boots, Trazione Omni-Grip, Calore Omni-Heat, Idrorepellenze Omni-Tech, Ammortizzazione Techlite - da uomo",
+  "price": 58.5,
+  "ref": 123.38,
+  "pct": 52.6,
   "level": "offerta",
   "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B01H1FAJYS?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/31FddN9BX2L.jpg",
+  "url": "https://www.amazon.it/dp/B0DKVMYXYQ?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/310Z+RqMM4L.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-08-21",
-    30.98
-   ],
-   [
-    "2026-08-26",
-    31.0
-   ],
-   [
-    "2026-09-16",
-    41.27
-   ],
-   [
-    "2026-10-14",
-    53.29
-   ],
-   [
-    "2026-11-15",
-    17.6
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0FCV29P7J",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "Jenny Sesal - ARREDATUTTO telo copritutto Gran Foulard (Matrimoniale, Giglio Tortora)",
-  "price": 18.9,
-  "ref": 40.56,
-  "pct": 53.4,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0FCV29P7J?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/41sNEYDG6yL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-08-19",
-    51.91
-   ],
-   [
-    "2026-08-29",
-    21.12
-   ],
-   [
-    "2026-09-11",
-    22.76
-   ],
-   [
-    "2026-09-26",
-    33.99
-   ],
-   [
-    "2026-10-11",
-    44.77
-   ],
-   [
-    "2026-10-17",
-    57.38
-   ],
-   [
-    "2026-11-15",
-    18.9
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0DSW912DT",
-  "source": "amazon_it",
-  "category": "moda",
-  "name": "G-STAR Kate Boyfriend Jeans Donna, Multicolore (Antique Faded Cyclone D15264-d594-h469), 32W / 32L",
-  "price": 39.94,
-  "ref": 85.45,
-  "pct": 53.3,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0DSW912DT?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/31t8BJ1qGKL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-08-25",
-    94.9
-   ],
-   [
-    "2026-08-30",
-    88.0
-   ],
-   [
-    "2026-09-02",
-    87.96
-   ],
-   [
-    "2026-10-15",
-    84.9
-   ],
-   [
-    "2026-11-15",
-    39.94
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0FH54CHRV",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "Superfit Cooper Gore-Tex 0010 - Sneakers, Nero/Grigio Chiaro, 32 EU",
-  "price": 26.95,
-  "ref": 57.0,
-  "pct": 52.7,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0FH54CHRV?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/312AwTXXdpL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-08-20",
-    34.24
+    103.21
    ],
    [
     "2026-08-24",
-    50.38
+    109.08
    ],
    [
-    "2026-09-08",
-    67.37
+    "2026-08-27",
+    103.21
    ],
-   [
-    "2026-09-10",
-    67.29
-   ],
-   [
-    "2026-09-22",
-    66.26
-   ],
-   [
-    "2026-09-26",
-    65.25
-   ],
-   [
-    "2026-09-30",
-    65.71
-   ],
-   [
-    "2026-10-06",
-    60.96
-   ],
-   [
-    "2026-10-12",
-    60.9
-   ],
-   [
-    "2026-10-19",
-    57.97
-   ],
-   [
-    "2026-10-24",
-    59.41
-   ],
-   [
-    "2026-10-30",
-    50.8
-   ],
-   [
-    "2026-11-04",
-    53.68
-   ],
-   [
-    "2026-11-15",
-    26.95
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:53216115130715",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Kérastase Mug Tazza Riutilizzabile Lussuosa",
-  "price": 9.99,
-  "ref": 60.0,
-  "pct": 83.4,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/kerastase-tazza-mug-riutilizzabile?variant=53216115130715",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/tazza-kerastase-mug-viola.jpg?v=1780313511",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    9.99
-   ],
-   [
-    "2026-11-15",
-    9.99
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:48095618957651",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Ciabatta Fila Morro Bay Slipper Wmn (EU 37)",
-  "price": 10.0,
-  "ref": 60.0,
-  "pct": 83.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/ciabatte-fila-morro-bay-slipper-wmn?variant=48095618957651",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8874153181523_hd.jpg?v=1782932524",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    10.0
-   ],
-   [
-    "2026-11-15",
-    10.0
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:50088295006555",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "K18 Damage Shield Shampoo e Conditioner 7+7ml",
-  "price": 3.99,
-  "ref": 19.99,
-  "pct": 80.0,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/k18-damage-shield-shampoo-conditioner?variant=50088295006555",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/k18-shampoo-e-balsamo.jpg?v=1775569021",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    3.99
-   ],
-   [
-    "2026-11-15",
-    3.99
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B00J25ROSA",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "Black & Decker BDHT0-66451 Set 12 Giraviti",
-  "price": 19.9,
-  "ref": 94.43,
-  "pct": 78.9,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B00J25ROSA?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/41MoM2fdGqL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-08-20",
-    67.44
-   ],
-   [
-    "2026-09-17",
-    83.9
-   ],
-   [
-    "2026-10-04",
-    103.16
-   ],
-   [
-    "2026-10-06",
-    123.79
-   ],
-   [
-    "2026-10-12",
-    256.69
-   ],
-   [
-    "2026-11-14",
-    19.9
-   ],
-   [
-    "2026-11-15",
-    19.9
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:53722755268955",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Foulard Kérastase - Accessorio Luxury",
-  "price": 9.99,
-  "ref": 40.0,
-  "pct": 75.0,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/foulard-kerastase-accessorio-capelli?variant=53722755268955",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/foulard-kerastase-accessorio_2.png?v=1785934335",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    9.99
-   ],
-   [
-    "2026-11-15",
-    9.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:52682324902235",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Kérastase K-Bag Charm Pettine – Portachiavi Elegante Accessorio Capelli",
-  "price": 4.99,
-  "ref": 19.99,
-  "pct": 75.0,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/portachiavi-kerastase-accessorio-regalo?variant=52682324902235",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/kerastase-portachiavi-accessorio-regalo.jpg?v=1775576012",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:54428884074843",
-  "source": "shopify_celebre_it",
-  "category": "bellezza",
-  "name": "Kérastase Chronologiste L’Huile de Parfum 15 ml – Olio Profumato per Capelli",
-  "price": 4.99,
-  "ref": 19.9,
-  "pct": 74.9,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/kerastase-chronologiste-olio-profumato-capelli?variant=54428884074843",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/KerastaseGlassHaircareBottle-9.png?v=1792507027",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46677923070291",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "New Balance 550 White Blue Groove",
-  "price": 50.0,
-  "ref": 190.0,
-  "pct": 73.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/new-balance-550-white-blue-groove?variant=46677923070291",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/New-Balance-550-White-Blue-Groove-Product.webp?v=1685635532",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46677969928531",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "New Balance 550",
-  "price": 50.0,
-  "ref": 190.0,
-  "pct": 73.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/new-balance-550-syracuse?variant=46677969928531",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/New-Balance-550-Syracuse-Product.webp?v=1685635942",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46677926642003",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "New Balance 550 Marquette (EU 37)",
-  "price": 50.0,
-  "ref": 190.0,
-  "pct": 73.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/new-balance-550-marquette?variant=46677926642003",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/New-Balance-550-Marquette-Product.webp?v=1685635557",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46677920743763",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "New Balance 550 Burnt Orange",
-  "price": 50.0,
-  "ref": 190.0,
-  "pct": 73.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/new-balance-550-burnt-orange?variant=46677920743763",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/New-Balance-550-Burnt-Orange.webp?v=1685635517",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:53355753505115",
-  "source": "shopify_celebre_it",
-  "category": "bellezza",
-  "name": "Redken Bag Pochette Borsa Beauty Case Nera",
-  "price": 7.99,
-  "ref": 29.99,
-  "pct": 73.4,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/redken-pochette-borsa-nera?variant=53355753505115",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/redken-pochette-borsa-bag-nera.jpg?v=1781101787",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    7.99
-   ],
-   [
-    "2026-11-15",
-    7.99
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46775669195091",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Nike Air Force 1 Rebel Xx Praline (Donna) (EU 37.5)",
-  "price": 40.0,
-  "ref": 150.0,
-  "pct": 73.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/nike-air-force-1-rebel-xx-praline-womens?variant=46775669195091",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/15c50a10165511ee947ec78af6fd0272.png?v=1688026520",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46734499021139",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "New Balance 550 Sea Salt Yellow (Bambino)",
-  "price": 50.0,
-  "ref": 170.0,
-  "pct": 70.6,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/new-balance-550-sea-salt-yellow-gs?variant=46734499021139",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/a31fa1a00c4511eea65b2b5c36e6ed62.png?v=1686920374",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47539882426707",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "New Balance 550 (EU 35.5)",
-  "price": 50.0,
-  "ref": 170.0,
-  "pct": 70.6,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/new-balance-552?variant=47539882426707",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8435773309267_hd.jpg?v=1782931959",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46734493417811",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "New Balance 550 (EU 36)",
-  "price": 50.0,
-  "ref": 170.0,
-  "pct": 70.6,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/new-balance-551?variant=46734493417811",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/7ea549000c3711ee9486c36cd9effcef.png?v=1686914308",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B01DA3M4CK",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "Colombo | Alpina 30 Stendibiancheria Verticale 30 m di Stenditura",
-  "price": 32.1,
-  "ref": 109.16,
-  "pct": 70.6,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B01DA3M4CK?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/41rkUYKWF4L.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-10-31",
-    115.0
-   ],
-   [
-    "2026-11-14",
-    32.1
-   ],
-   [
-    "2026-11-15",
-    32.1
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:50482203689299",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "New Balance 550 White Classic Green",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/new-balance-550-white-classic-green?variant=50482203689299",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/fe849e401bec11eea3e461067d98a01d.jpg?v=1688641520",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47446894608723",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 00s Collegiate Green Energy Ink",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-00s-8?variant=47446894608723",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8600355504467_hd.jpg?v=1782932249",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47229580902739",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 00s Dark Green Cloud White",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-00s-dark-green-cloud-white?variant=47229580902739",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8573743006035_hd.jpg?v=1782932228",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47197160014163",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 00s Green Cloud White (Donna) (EU 42 2/3)",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-00s-green-cloud-white-womens-1?variant=47197160014163",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/da5ec0106a7311eeb99ca5f36552eb50.jpg?v=1697275634",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47294146576723",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 00s J Orange Gum (EU 35.5)",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-00s-3?variant=47294146576723",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/e4a0f34050b511eeb74781295ace540a.jpg?v=1694445267",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46948350722387",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 00s Collegiate Green (EU 36)",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-00s-collegiate-green-1?variant=46948350722387",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/a4b59f70377d11eebc905ba56af19055.jpg?v=1691672330",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46757333631315",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 00s Almost Yellow Core Black",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-00s-almost-yellow-core-black?variant=46757333631315",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/d892a9900ed411ee9f3a5f1a1555e096.png?v=1687201784",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46838884630867",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 2 W (EU 38 2/3)",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-2-w?variant=46838884630867",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8471201710419_hd.jpg?v=1782932025",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46676607140179",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 00s Spice Yellow",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-00s-spice-yellow?variant=46676607140179",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/adidas-Campus-00s-Spice-Yellow-Product.webp?v=1686844824",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46757347852627",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 00s Zalando Exclusive Glow in The Dark Beige",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-00s-zalando-exclusive-glow-in-the-dark-beige?variant=46757347852627",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/3139f9900ed511ee8f1aa7d2f5e5e594.png?v=1687201933",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46676586922323",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 00s Better Scarlet Cloud White (EU 47 1/3)",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-00s-better-scarlet-cloud-white?variant=46676586922323",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/adidas-Campus-00s-Better-Scarlet-Cloud-White-Product.webp?v=1686844898",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46704481599827",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 00s Pantone Cloud White (EU 36)",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-00s-pantone-cloud-white?variant=46704481599827",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/a379b12006b611eeb27897ff3f75a9f8.png?v=1686309201",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:50449423106387",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 00s Amber Tint (EU 37 1/3)",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-00s-amber-tint?variant=50449423106387",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/7ae367e0060911eebb3ea15406193cf1.png?v=1686234831",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46704432349523",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 00s Semi Screaming Green (EU 44)",
-  "price": 50.0,
-  "ref": 160.0,
-  "pct": 68.8,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-00s-semi-screaming-green?variant=46704432349523",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/1cbfa110061311ee9a9083fcb82e1fba.png?v=1686238969",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:50449454596435",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Mid Reverse Chicago (Donna) (Special) (EU 37.5)",
-  "price": 70.0,
-  "ref": 220.0,
-  "pct": 68.2,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-mid-reverse-chicago-w-special-1?variant=50449454596435",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Reverse-Chicago-W-Product.webp?v=1685622910",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    70.0
-   ],
-   [
-    "2026-11-15",
-    70.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:50987012522323",
-  "source": "shopify_onestreet_it",
-  "category": "moda",
-  "name": "Shirt Adidas X Fc Bayern Monaco (S)",
-  "price": 30.0,
-  "ref": 90.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/shirt-adidas-x-fc-bayern-monaco?variant=50987012522323",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/image-Photoroom_1.png?v=1747319350",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    30.0
-   ],
-   [
-    "2026-11-15",
-    30.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:48083797836115",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Nike Ciabatta WMNS Benassi Jdi",
-  "price": 20.0,
-  "ref": 60.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/nike-ciabatta-wmns-benassi-jdi?variant=48083797836115",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8869773017427_hd.jpg?v=1782932477",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    20.0
-   ],
-   [
-    "2026-11-15",
-    20.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:48083785646419",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Nike Ciabatta Benassi Jdi (EU 38.5)",
-  "price": 20.0,
-  "ref": 60.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/nike-ciabatta-benassi-jdi?variant=48083785646419",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8869765284179_hd.jpg?v=1782932472",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    20.0
-   ],
-   [
-    "2026-11-15",
-    20.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46861310722387",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Hi (EU 36)",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-hi-4?variant=46861310722387",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/ed1895b0258a11eebe26df516ac40c0a.jpg?v=1689698912",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46861247316307",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Ox (EU 36)",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-ox?variant=46861247316307",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8476036858195_hd.jpg?v=1782932113",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46861221462355",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Move Hi",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-move-hi-2?variant=46861221462355",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8476032729427_hd.jpg?v=1782932103",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46861219987795",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Move Hi",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-move-hi-1?variant=46861219987795",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8476032303443_hd.jpg?v=1782932098",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46861054640467",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Lugged Winter 2.0 Hi (EU 36.5)",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-lugged-winter-2-0-hi-2?variant=46861054640467",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8475944026451_hd.jpg?v=1782932093",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46860965609811",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Hi (EU 36)",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-hi-3?variant=46860965609811",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/c0c3a110257d11eebe26df516ac40c0a.jpg?v=1689693254",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46860916326739",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Lift Hi",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-lift-hi-2?variant=46860916326739",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/ba19a7c0257c11eebe26df516ac40c0a.webp?v=1689692814",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46860898500947",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Lift Ox",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-lift-ox-2?variant=46860898500947",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8475832779091_hd.jpg?v=1782932090",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46860847776083",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Lugged Winter 2.0 Hi (EU 36.5)",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-lugged-winter-2-0-hi-1?variant=46860847776083",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/efbd9140257a11eebe26df516ac40c0a.jpg?v=1689692045",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46860794790227",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Lift Hi",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-lift-hi-1?variant=46860794790227",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/7575db40257a11eebe26df516ac40c0a.jpg?v=1689691840",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46860781683027",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Lift Ox (EU 36.5)",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-lift-ox-1?variant=46860781683027",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/34d07aa0257a11eebe26df516ac40c0a.jpg?v=1689691731",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46860776636755",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Net Star Classic Ox (EU 39)",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-net-star-classic-ox?variant=46860776636755",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/e2c73280257911eebe26df516ac40c0a.jpg?v=1689691594",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46860774015315",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Hi (EU 36)",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-hi?variant=46860774015315",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/a5246380257911eebe26df516ac40c0a.jpg?v=1689691490",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46860769460563",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Hiker Hi (EU 37)",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-hiker-hi?variant=46860769460563",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/5d040880257911eebe26df516ac40c0a.jpg?v=1689691369",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46860764971347",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Lugged Winter Hi",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-lugged-winter-hi?variant=46860764971347",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8475754398035_hd.jpg?v=1782932084",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46860758745427",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Lift Ox",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-lift-ox?variant=46860758745427",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/968bed80257811eebe26df516ac40c0a.webp?v=1689691036",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46860739477843",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Move Ox",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-move-ox?variant=46860739477843",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/c22a6130257611eebe26df516ac40c0a.jpg?v=1689690250",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46860737773907",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Ctas Lift Hi (EU 36)",
-  "price": 40.0,
-  "ref": 120.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-ctas-lift-hi?variant=46860737773907",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8475746664787_hd.jpg?v=1782932079",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:54428976546139",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Redken Acidic Grow Full System Shampoo 75 ml – Shampoo Densificante",
-  "price": 4.99,
-  "ref": 14.99,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/redken-shampoo-acidic-grow-full-system-piccolo?variant=54428976546139",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleproductphoto-6.png?v=1792507427",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:50724460855643",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Assicurazione Totale – Rimborso Immediato per Danneggiamento e Smarrimento Pacchi",
-  "price": 1.0,
-  "ref": 3.0,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/assicurazione-rimborso-immediato-spedizione?variant=50724460855643",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/assicurazione-pacchi-spedizione.jpg?v=1775571995",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    1.0
-   ],
-   [
-    "2026-11-15",
-    1.0
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:49793797947739",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Medavita Huile D'etoile Maschera di Oli Illuminante 50ml",
-  "price": 4.99,
-  "ref": 14.99,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/medavita-huile-detoile-maschera-capelli-spenti?variant=49793797947739",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Huiled_etoileMaschera.jpg?v=1775568020",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:49784054219099",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Medavita Lotion Concentreè Shampoo Anticaduta Uomo 55ml - Travel Size",
-  "price": 4.99,
-  "ref": 14.99,
-  "pct": 66.7,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/medavita-shampoo-anticaduta-uomo?variant=49784054219099",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Progettosenzatitolo_54.jpg?v=1775567179",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:54429322871131",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Redken All Soft Conditioner 50 ml – Balsamo per Capelli Secchi",
-  "price": 4.99,
-  "ref": 14.9,
-  "pct": 66.5,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/redken-all-soft-balsamo-capelli-secchi?variant=54429322871131",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/KerastaseGlassBottleStudioShot-2.png?v=1792508786",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:54429198221659",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Redken Acidic Color Gloss Conditioner 50 ml – Balsamo per Capelli Colorati",
-  "price": 4.99,
-  "ref": 14.9,
-  "pct": 66.5,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/redken-acidic-color-gloss-balsamo?variant=54429198221659",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleonwhite-3.png?v=1792508444",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:54429124788571",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Redken Acidic Color Gloss Termoprotettore 45 ml – Spray Senza Risciacquo",
-  "price": 4.99,
-  "ref": 14.9,
-  "pct": 66.5,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/redken-acidic-color-gloss-termoprotettore?variant=54429124788571",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleonwhite-4.png?v=1792508268",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:54428996403547",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Redken Acidic Grow Full System Conditioner 50 ml – Balsamo Densificante",
-  "price": 4.99,
-  "ref": 14.9,
-  "pct": 66.5,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/redken-acidic-grow-full-system-conditioner?variant=54428996403547",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleonwhite-5.png?v=1792507516",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:54428921921883",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Redken One United 30 ml – Spray Multibeneficio e Termoprotettore",
-  "price": 4.99,
-  "ref": 14.9,
-  "pct": 66.5,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/redken-one-united-30ml?variant=54428921921883",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleproductshot-8_6bce0692-6781-4ec4-a32a-cc40321a6c5b.png?v=1792507242",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:54428841050459",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Redken Acidic Grow Full System Scalp & Hair Serum 45 ml",
-  "price": 4.99,
-  "ref": 14.9,
-  "pct": 66.5,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/redken-acidic-grow-siero-capelli-fini?variant=54428841050459",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/KerastaseGlassBottleonWhite-7.png?v=1792507072",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:53866872275291",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "L'Oréal Scalp Advanced Shampoo Anti-Oiliness 100ml Travel Size",
-  "price": 4.99,
-  "ref": 14.9,
-  "pct": 66.5,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/loreal-shampoo-capelli-grassi-travel-size?variant=53866872275291",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/loreal-shampoo-capelli-grassi-professionale_1.jpg?v=1775570109",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0846H2LJC",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "Legero 2000503 Donna Stivali da neve, Black 0000, 37 EU",
-  "price": 43.97,
-  "ref": 127.48,
-  "pct": 65.5,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0846H2LJC?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/218ntvrHSeL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-09-17",
-    127.37
-   ],
-   [
-    "2026-09-27",
-    119.95
-   ],
-   [
-    "2026-11-11",
-    140.0
-   ],
-   [
-    "2026-11-14",
-    43.97
-   ],
-   [
-    "2026-11-15",
-    43.97
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47677820076371",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "New Balance 9060 Tea Tree",
-  "price": 90.0,
-  "ref": 260.0,
-  "pct": 65.4,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/new-balance-9060-tea-tree?variant=47677820076371",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/c85615a0c9c111ee91752b4756c8104c.jpg?v=1707754466",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46680651432275",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Mid Linen",
-  "price": 90.0,
-  "ref": 260.0,
-  "pct": 65.4,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-mid-linen?variant=46680651432275",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Linen-Product.webp?v=1685714720",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47022406795603",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Shorts Nike (XS)",
-  "price": 25.0,
-  "ref": 70.0,
-  "pct": 64.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/shorts-nike-7?variant=47022406795603",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/8e05f7e0480b11eeae250b901a1db57b.jpg?v=1693492499",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    25.0
-   ],
-   [
-    "2026-11-15",
-    25.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47022134493523",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Shorts Cargo Nike",
-  "price": 25.0,
-  "ref": 70.0,
-  "pct": 64.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/shorts-cargo-nike?variant=47022134493523",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/446ba3e0480711eeae250b901a1db57b.jpg?v=1693490660",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    25.0
-   ],
-   [
-    "2026-11-15",
-    25.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47022023016787",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Shorts Nike (XS)",
-  "price": 25.0,
-  "ref": 70.0,
-  "pct": 64.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/shorts-nike-3?variant=47022023016787",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/6462ffb0480511ee8d81d7cf09ace977.jpg?v=1693991304",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    25.0
-   ],
-   [
-    "2026-11-15",
-    25.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47021896204627",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Shorts Nike",
-  "price": 25.0,
-  "ref": 70.0,
-  "pct": 64.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/shorts-nike-2?variant=47021896204627",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/8fca84e0480311ee8d81d7cf09ace977.jpg?v=1693489064",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    25.0
-   ],
-   [
-    "2026-11-15",
-    25.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47020947505491",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Shorts Nike (XS)",
-  "price": 25.0,
-  "ref": 70.0,
-  "pct": 64.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/shorts-nike-1?variant=47020947505491",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/aa009ee047ee11ee919d8b776f766573.jpg?v=1693480091",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    25.0
-   ],
-   [
-    "2026-11-15",
-    25.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:50449442308435",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Campus 00s Energy Ink (Bambino)",
-  "price": 50.0,
-  "ref": 140.0,
-  "pct": 64.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-campus-00s-energy-ink-kids?variant=50449442308435",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/adidas-Campus-00s-Energy-Ink-Kids-Product.jpg?v=1740062154",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:49900023677275",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Medavita Idol Texture Satin Lacca Gas Forte Ultra-Dry 75ml - Styling",
-  "price": 4.99,
-  "ref": 13.99,
-  "pct": 64.3,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/medavita-idol-lacca-per-styling-capelli-forte?variant=49900023677275",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Medavita_Idol_Texture_Satin_Lacca_Gas_Forte_Ultra-Dry_75ml.jpg?v=1775568249",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:49812543865179",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Medavita Huile d’Étoile Shampoo di Oli Inebriante 55ml",
-  "price": 4.99,
-  "ref": 13.99,
-  "pct": 64.3,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/medavita-huile-d-toile-shampoo-illuminante?variant=49812543865179",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Medavita_Huile_detoile_Shampoo_di_Oli_Inebriante_55ml.jpg?v=1775568114",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:49794032959835",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Medavita Blondie All Blondes Bonding Shampoo 55ml - Shampoo per Tutti i Capelli Biondi",
-  "price": 4.99,
-  "ref": 13.99,
-  "pct": 64.3,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/medavita-blondie-shampoo-capelli-biondi-decolorati?variant=49794032959835",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/medavitablondieshampoo_4.jpg?v=1775567634",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:49793893073243",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Medavita Prodige Shampoo Rigenerante 55ml - per Capelli Danneggiati",
-  "price": 4.99,
-  "ref": 13.99,
-  "pct": 64.3,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/medavita-prodige-shampoo-per-capelli-danneggiati?variant=49793893073243",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/medavita-prodige-shampoo_1.jpg?v=1775568692",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:49793613201755",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Medavita Curladdict Shampoo Elasticizzante 55ml - Per Capelli Ricci e Mossi",
-  "price": 4.99,
-  "ref": 13.99,
-  "pct": 64.3,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/medavita-shampoo-per-capelli-ricci-e-mossi?variant=49793613201755",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Medavita_Curladdict_shampoo.jpg?v=1775567822",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46756886413651",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Nike Air Force 1 Low '07 Multi-Color Gradient (Donna) (EU 38)",
-  "price": 70.0,
-  "ref": 190.0,
-  "pct": 63.2,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/nike-air-force-1-low-07-multi-color-gradient-womens?variant=46756886413651",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/eeda1ae00ed811ee8f1aa7d2f5e5e594.png?v=1687203541",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    70.0
-   ],
-   [
-    "2026-11-15",
-    70.0
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0CSDRXJGK",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "Superfit CRYSTAL warm gefütterte Gore-Tex - Stivali da neve, Hellgrau 2510,",
-  "price": 23.08,
-  "ref": 62.51,
-  "pct": 63.1,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0CSDRXJGK?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/31Rt2JAYJZL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-09-10",
-    66.17
-   ],
-   [
-    "2026-09-24",
-    62.36
-   ],
-   [
-    "2026-09-27",
-    62.37
-   ],
-   [
-    "2026-10-04",
-    60.73
-   ],
-   [
-    "2026-10-10",
-    62.83
-   ],
-   [
-    "2026-10-18",
-    61.3
-   ],
-   [
-    "2026-10-24",
-    61.83
-   ],
-   [
-    "2026-10-30",
-    62.0
-   ],
-   [
-    "2026-11-05",
-    62.2
-   ],
-   [
-    "2026-11-06",
-    62.56
-   ],
-   [
-    "2026-11-11",
-    62.66
-   ],
-   [
-    "2026-11-14",
-    23.08
-   ],
-   [
-    "2026-11-15",
-    23.08
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:51042837725531",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Medavita Choice Glowing Shampoo 55 ml – Lucentezza istantanea per capelli colorati",
-  "price": 4.99,
-  "ref": 12.99,
-  "pct": 61.6,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/medavita-choice-glowing-shampoo?variant=51042837725531",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/medavita-choice-shampoo-capelli.jpg?v=1775572751",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:52867310027099",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Redken Blondage High Bright Conditioner 300 ML – Balsamo Illuminante per Capelli Biondi",
-  "price": 17.2,
-  "ref": 44.5,
-  "pct": 61.3,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/redken-balsamo-illuminante-capelli-biondi?variant=52867310027099",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/redken-balsamo-illuminante-capelli-biondi.jpg?v=1777044682",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    17.2
-   ],
-   [
-    "2026-11-15",
-    17.2
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0CRFDHLX3",
-  "source": "amazon_it",
-  "category": "moda",
-  "name": "LEE - Jeans Uomo - Vestibilità Slim Dritta - Extreme Motion - Bolton",
-  "price": 26.63,
-  "ref": 68.74,
-  "pct": 61.3,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0CRFDHLX3?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/21KXdw3-FJL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
    [
     "2026-08-30",
-    70.11
-   ],
-   [
-    "2026-09-06",
-    71.0
-   ],
-   [
-    "2026-09-12",
-    71.91
-   ],
-   [
-    "2026-09-16",
-    49.42
-   ],
-   [
-    "2026-09-21",
-    48.79
-   ],
-   [
-    "2026-09-24",
-    65.4
-   ],
-   [
-    "2026-09-26",
-    64.85
-   ],
-   [
-    "2026-10-08",
-    61.99
-   ],
-   [
-    "2026-10-10",
-    70.45
-   ],
-   [
-    "2026-10-16",
-    75.0
-   ],
-   [
-    "2026-10-25",
-    72.1
-   ],
-   [
-    "2026-10-29",
-    75.0
-   ],
-   [
-    "2026-10-31",
-    72.1
-   ],
-   [
-    "2026-11-14",
-    26.63
-   ],
-   [
-    "2026-11-15",
-    26.63
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B09JGFR975",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "PIECES Pcbozzy Ls Loose Blazer Noos Bc Blazer, Bianco (Cloud Dancer), L Donna",
-  "price": 15.75,
-  "ref": 39.56,
-  "pct": 60.2,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B09JGFR975?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/21c6MczWvnL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-08-17",
-    44.9
-   ],
-   [
-    "2026-08-21",
-    44.88
-   ],
-   [
-    "2026-08-25",
-    23.8
-   ],
-   [
-    "2026-09-02",
-    44.9
-   ],
-   [
-    "2026-09-16",
-    49.9
-   ],
-   [
-    "2026-09-23",
-    34.43
-   ],
-   [
-    "2026-09-28",
-    31.1
-   ],
-   [
-    "2026-09-30",
-    31.36
-   ],
-   [
-    "2026-10-05",
-    49.9
-   ],
-   [
-    "2026-10-10",
-    31.36
-   ],
-   [
-    "2026-10-16",
-    25.49
-   ],
-   [
-    "2026-10-21",
-    27.54
-   ],
-   [
-    "2026-10-25",
-    49.9
-   ],
-   [
-    "2026-11-09",
-    39.9
-   ],
-   [
-    "2026-11-14",
-    15.75
-   ],
-   [
-    "2026-11-15",
-    15.75
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:54272072712539",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Pennello parrucchiere per trattamenti Kérastase",
-  "price": 3.99,
-  "ref": 9.99,
-  "pct": 60.1,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/pennello-parrucchiere-kerastase-trattamento?variant=54272072712539",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/pennello-parrucchiere-colore-kerastase_1.png?v=1791459197",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    3.99
-   ],
-   [
-    "2026-11-15",
-    3.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:53359461859675",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Elastico Capelli Laccato Argento L’Oréal Professionnel",
-  "price": 3.99,
-  "ref": 9.99,
-  "pct": 60.1,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/loreal-elastico-capelli?variant=53359461859675",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/loreal-elastico-capelli.jpg?v=1781171320",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    3.99
-   ],
-   [
-    "2026-11-15",
-    3.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:50373348262235",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Medavita Blondie All Blondes Bonding Deep Mask 50ml",
-  "price": 4.99,
-  "ref": 12.5,
-  "pct": 60.1,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/medavita-blondie-maschera-capelli-biondi?variant=50373348262235",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/medavita-maschera-capelli-biondi-50ml.jpg?v=1775569407",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    4.99
-   ],
-   [
-    "2026-11-15",
-    4.99
-   ]
-  ]
- },
- {
-  "key": "awin_acer_it:24634925475",
-  "source": "awin_acer_it",
-  "category": "informatica",
-  "name": "5 anni Carry-in incluso 1º anno di garanzia internazionale | Monitor Consumer & Commerciali",
-  "price": 19.99,
-  "ref": 49.99,
-  "pct": 60.0,
-  "level": "offerta",
-  "shop": "Acer IT",
-  "url": "https://www.awin1.com/pclick.php?p=24634925475&a=3152592&m=15530",
-  "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___c__c_o_commercial_we_monitor_1_sv.wldam.003.png",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-12",
-    19.99
-   ],
-   [
-    "2026-11-13",
-    19.99
-   ],
-   [
-    "2026-11-14",
-    19.99
-   ],
-   [
-    "2026-11-15",
-    19.99
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47051420696915",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Shorts Ciclista Nike (XS)",
-  "price": 20.0,
-  "ref": 50.0,
-  "pct": 60.0,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/shorts-ciclista-nike?variant=47051420696915",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/56b03f304e2d11ee8d0e8786ffc1de3d.jpg?v=1694166714",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    20.0
-   ],
-   [
-    "2026-11-15",
-    20.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:48013858079059",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Shorts Gonna Nike",
-  "price": 20.0,
-  "ref": 50.0,
-  "pct": 60.0,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/shorts-gonna-nike-2?variant=48013858079059",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/14d914c0fd8611ee9db36d104132a1ce_9bfd894d-d98a-4885-82b1-1c42df95c593.jpg?v=1713446288",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    20.0
-   ],
-   [
-    "2026-11-15",
-    20.0
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:53355596120411",
-  "source": "shopify_celebre_it",
-  "category": "bellezza",
-  "name": "Tappetino Termoresistente L’Oréal Professionnel per Asciugacapelli e Piastra Steampod",
-  "price": 9.99,
-  "ref": 25.0,
-  "pct": 60.0,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/tappetino-termoresistente-loreal-piastra-asciugacapelli?variant=53355596120411",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/tappetino-termoresistente-loreal-phon-piastra.jpg?v=1781099784",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    9.99
-   ],
-   [
-    "2026-11-15",
-    9.99
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:50992925901147",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "L’Oréal Professionnel Scalp Massaggiatore Cute in Silicone",
-  "price": 9.99,
-  "ref": 25.0,
-  "pct": 60.0,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/massaggiatore-cute-spazzola-loreal?variant=50992925901147",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/massaggiatore-cute-spazzola-loreal.jpg?v=1775572690",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    9.99
-   ],
-   [
-    "2026-11-15",
-    9.99
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46680781750611",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Low Bred Toe",
-  "price": 90.0,
-  "ref": 220.0,
-  "pct": 59.1,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-low-bred-toe?variant=46680781750611",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/5eb07b00038211eebd80c118e9c29ac4.png?v=1685957392",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46680926552403",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Mid Paris White (EU 40.5)",
-  "price": 90.0,
-  "ref": 220.0,
-  "pct": 59.1,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-mid-paris-white?variant=46680926552403",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Paris-White-Product.webp?v=1685717331",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46680884674899",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Low Cardinal Red (EU 42.5)",
-  "price": 90.0,
-  "ref": 220.0,
-  "pct": 59.1,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-low-cardinal-red?variant=46680884674899",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Low-Cardinal-Red-Product.webp?v=1685717042",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46676621295955",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Mid Reverse Chicago (Donna) (EU 36.5)",
-  "price": 90.0,
-  "ref": 220.0,
-  "pct": 59.1,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-mid-reverse-chicago-w?variant=46676621295955",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Reverse-Chicago-W-Product.webp?v=1685622910",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46595627581779",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Mid Gym Red Panda (Donna) (EU 37.5)",
-  "price": 90.0,
-  "ref": 220.0,
-  "pct": 59.1,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-mid-gym-red-panda-w?variant=46595627581779",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Gym-Red-Panda-W-Product.webp?v=1683716584",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46487478108499",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Mid Grey Green",
-  "price": 90.0,
-  "ref": 220.0,
-  "pct": 59.1,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-mid-grey-green?variant=46487478108499",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Grey-Green.jpg?v=1680559189",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46676627226963",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Retro High OG Atmosphere (Donna) (EU 36)",
-  "price": 95.0,
-  "ref": 230.0,
-  "pct": 58.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-retro-high-og-atmosphere-w?variant=46676627226963",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Retro-High-OG-Atmosphere-W-Product.webp?v=1685623053",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    95.0
-   ],
-   [
-    "2026-11-15",
-    95.0
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0FVF87MBN",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "adidas Donna Essentials Rain Parka Coat, Black, L",
-  "price": 30.04,
-  "ref": 72.33,
-  "pct": 58.5,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0FVF87MBN?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/31Ltrz8xKnL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-09-06",
-    100.0
-   ],
-   [
-    "2026-09-23",
-    84.13
-   ],
-   [
-    "2026-10-02",
-    77.59
-   ],
-   [
-    "2026-10-11",
-    65.11
-   ],
-   [
-    "2026-10-17",
-    52.74
-   ],
-   [
-    "2026-10-23",
-    42.72
-   ],
-   [
-    "2026-10-28",
-    50.88
-   ],
-   [
-    "2026-11-05",
-    37.09
-   ],
-   [
-    "2026-11-08",
-    33.38
-   ],
-   [
-    "2026-11-09",
-    95.44
-   ],
-   [
-    "2026-11-10",
-    96.16
-   ],
-   [
-    "2026-11-11",
-    30.04
-   ],
-   [
-    "2026-11-12",
-    96.16
-   ],
-   [
-    "2026-11-14",
-    30.04
-   ],
-   [
-    "2026-11-15",
-    30.04
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46786319483219",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Chuck Taylor All-Star 70 Hi (EU 37)",
-  "price": 50.0,
-  "ref": 120.0,
-  "pct": 58.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi?variant=46786319483219",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8456195834195_hd.jpg?v=1782932015",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46786302607699",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Chuck Taylor All-Star 70 Hi Ivory (EU 39)",
-  "price": 50.0,
-  "ref": 120.0,
-  "pct": 58.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-ivory?variant=46786302607699",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8456189083987_hd.jpg?v=1782932009",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46786298970451",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Chuck Taylor All-Star 70 Hi Parchment (EU 42)",
-  "price": 50.0,
-  "ref": 120.0,
-  "pct": 58.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-parchment?variant=46786298970451",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8456188100947_hd.jpg?v=1782932004",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46785965588819",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Chuck Taylor All-Star 70 Hi Desert Cargo",
-  "price": 50.0,
-  "ref": 120.0,
-  "pct": 58.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-desert-cargo?variant=46785965588819",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8456034845011_hd.jpg?v=1782931999",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46785963458899",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Chuck Taylor All-Star 70 Hi Plus Dark Raisin Egret Black (EU 37)",
-  "price": 50.0,
-  "ref": 120.0,
-  "pct": 58.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-plus-dark-raisin-egret-black?variant=46785963458899",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/d5159750165411ee947ec78af6fd0272.png?v=1688026412",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46785960739155",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Converse Chuck Taylor All-Star 70 Hi Plus Canvas Black White",
-  "price": 50.0,
-  "ref": 120.0,
-  "pct": 58.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-plus-canvas-black-white?variant=46785960739155",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/bcd7d770165411ee947ec78af6fd0272.png?v=1688026371",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    50.0
-   ],
-   [
-    "2026-11-15",
-    50.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46676657111379",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 5 Low Girls That Hoop (Donna) (EU 37.5)",
-  "price": 100.0,
-  "ref": 240.0,
-  "pct": 58.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-5-low-girls-that-hoop-w?variant=46676657111379",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-5-Low-Arctic-Pink-W-Product.webp?v=1685623499",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    100.0
-   ],
-   [
-    "2026-11-15",
-    100.0
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B003P8QEPE",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "Aigle Benyl Xl. Stivali da Caccia da Uomo, Verde (Kaki), 43 EU",
-  "price": 52.46,
-  "ref": 125.54,
-  "pct": 58.2,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B003P8QEPE?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/31ZMECNp12L.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-08-18",
-    107.79
-   ],
-   [
-    "2026-08-25",
-    109.82
-   ],
-   [
-    "2026-08-28",
-    119.46
+    107.87
    ],
    [
     "2026-09-04",
-    107.51
-   ],
-   [
-    "2026-11-14",
-    52.46
-   ],
-   [
-    "2026-11-15",
-    52.46
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0BFJMWJBR",
-  "source": "amazon_it",
-  "category": "moda",
-  "name": "JJIALEX JJORIGINAL SBD 304 NOOS Jeans Baggy Fit Blu 34/34",
-  "price": 18.22,
-  "ref": 43.35,
-  "pct": 58.0,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0BFJMWJBR?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/31WtQE7KSJL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-08-28",
-    42.53
-   ],
-   [
-    "2026-08-29",
-    44.88
-   ],
-   [
-    "2026-09-12",
-    45.99
-   ],
-   [
-    "2026-09-26",
-    44.97
-   ],
-   [
-    "2026-10-01",
-    45.99
-   ],
-   [
-    "2026-10-06",
-    44.97
-   ],
-   [
-    "2026-10-09",
-    29.99
-   ],
-   [
-    "2026-10-11",
-    44.97
-   ],
-   [
-    "2026-10-18",
-    45.99
-   ],
-   [
-    "2026-11-07",
-    45.97
-   ],
-   [
-    "2026-11-10",
-    45.99
-   ],
-   [
-    "2026-11-14",
-    18.22
-   ],
-   [
-    "2026-11-15",
-    18.22
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46676653736275",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Retro High Satin Snake Chicago (Donna) (EU 35.5)",
-  "price": 140.0,
-  "ref": 330.0,
-  "pct": 57.6,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-retro-high-satin-snake-chicago-w?variant=46676653736275",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Retro-High-Satin-Snake-Chicago-W-Product.jpg?v=1685977496",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    140.0
-   ],
-   [
-    "2026-11-15",
-    140.0
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:53355659952475",
-  "source": "shopify_celebre_it",
-  "category": "bellezza",
-  "name": "Beauty Night Kit Kérastase - Accessori Notte",
-  "price": 29.99,
-  "ref": 70.0,
-  "pct": 57.2,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/beauty-night-kit-kerastase-accessori-notte?variant=53355659952475",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/beauty-kit-night-kerastase-accessori.jpg?v=1781100724",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    29.99
-   ],
-   [
-    "2026-11-15",
-    29.99
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47020837405011",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Shorts Nike (XS)",
-  "price": 30.0,
-  "ref": 70.0,
-  "pct": 57.1,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/pantacostume-nike?variant=47020837405011",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8516485054803_hd.jpg?v=1782932118",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    30.0
-   ],
-   [
-    "2026-11-15",
-    30.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47312310993235",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Giubbino The North Face (Donna) 700 Retro Nuptse Fuchsia Pink",
-  "price": 150.0,
-  "ref": 350.0,
-  "pct": 57.1,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/giubbino-the-north-face-women-s-nuptse-short-fuchsia-pink?variant=47312310993235",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/29d77450820411ee9006eb6bb1bafffa.jpg?v=1699866492",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    150.0
-   ],
-   [
-    "2026-11-15",
-    150.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46756859183443",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Mid SE Ice Blue (Donna) (EU 37.5)",
-  "price": 90.0,
-  "ref": 210.0,
-  "pct": 57.1,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-mid-se-ice-blue-womens?variant=46756859183443",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/a2e04bb00ed711ee8f1aa7d2f5e5e594.png?v=1687202983",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46756855218515",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Mid SE Seahawks (Donna) (EU 36.5)",
-  "price": 90.0,
-  "ref": 210.0,
-  "pct": 57.1,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-mid-se-seahawks-womens?variant=46756855218515",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/f8af00400ed711ee8f1aa7d2f5e5e594.png?v=1687203126",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46680919736659",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Mid Syracuse",
-  "price": 90.0,
-  "ref": 210.0,
-  "pct": 57.1,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-mid-syracuse-w?variant=46680919736659",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Syracuse-W-Product.jpg?v=1685717279",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46680116625747",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Nike Dunk Low SP Kentucky (2020)",
-  "price": 120.0,
-  "ref": 280.0,
-  "pct": 57.1,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/nike-dunk-low-sp-kentucky-2020?variant=46680116625747",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/c9a38960061211ee9a9083fcb82e1fba_d8d9250a-c60f-4b2e-9426-d3256e759f61.png?v=1686238842",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    120.0
-   ],
-   [
-    "2026-11-15",
-    120.0
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0DT4S6MMW",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "Superfit Stivali da neve Flavia con calda imbottitura Gore-tex, Rosa Argento 5530, 31 EU",
-  "price": 33.79,
-  "ref": 78.7,
-  "pct": 57.1,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0DT4S6MMW?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/31b27msLz0L.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-08-19",
-    67.06
-   ],
-   [
-    "2026-08-24",
-    67.12
-   ],
-   [
-    "2026-09-06",
-    70.46
-   ],
-   [
-    "2026-09-10",
-    70.52
-   ],
-   [
-    "2026-09-25",
-    94.99
-   ],
-   [
-    "2026-10-07",
-    85.22
-   ],
-   [
-    "2026-10-14",
-    85.23
-   ],
-   [
-    "2026-10-22",
-    66.42
-   ],
-   [
-    "2026-10-27",
-    85.23
-   ],
-   [
-    "2026-10-31",
-    85.32
-   ],
-   [
-    "2026-11-05",
-    85.63
-   ],
-   [
-    "2026-11-06",
-    85.68
-   ],
-   [
-    "2026-11-12",
-    85.23
-   ],
-   [
-    "2026-11-14",
-    33.79
-   ],
-   [
-    "2026-11-15",
-    33.79
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:54631413383515",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "Kérastase Blond Absolu Cicaflash Conditioner 75ml - Formato Prova",
-  "price": 5.99,
-  "ref": 13.9,
-  "pct": 56.9,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/kerastase-blond-absolu-cicaflash-conditioner-75ml-copia?variant=54631413383515",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/kerastase-balsamo-capelli-biondi-viola_1.png?v=1788540194",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    5.99
-   ],
-   [
-    "2026-11-15",
-    5.99
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:50668430950739",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Nike Air Max Portal Black Hyper Violet (Donna) (EU 37.5)",
-  "price": 65.0,
-  "ref": 150.0,
-  "pct": 56.7,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/nike-air-max-portal-black-anthracite-womens-copia?variant=50668430950739",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/portal.jpg?v=1743158041",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    65.0
-   ],
-   [
-    "2026-11-15",
-    65.0
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:50401856225627",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "L'Oréal Professionnel Curl Expression Shampoo Ultra Idratante – 500 ml",
-  "price": 20.99,
-  "ref": 48.15,
-  "pct": 56.4,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/loreal-shampoo-capelli-ricci-curl-expression?variant=50401856225627",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/loreal-capelli-ricci-shampoo-curlexpression.jpg?v=1775571990",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    20.99
-   ],
-   [
-    "2026-11-15",
-    20.99
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0F7S278MX",
-  "source": "amazon_it",
-  "category": "moda",
-  "name": "NAPAPIJRI Ambers Jacket Petrolio",
-  "price": 45.29,
-  "ref": 103.57,
-  "pct": 56.3,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0F7S278MX?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/31Fh3gAyfJL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-08-28",
-    79.45
-   ],
-   [
-    "2026-09-08",
-    73.68
-   ],
-   [
-    "2026-09-18",
-    69.76
-   ],
-   [
-    "2026-09-22",
-    65.72
-   ],
-   [
-    "2026-09-25",
-    95.23
-   ],
-   [
-    "2026-09-27",
-    85.71
-   ],
-   [
-    "2026-09-30",
-    69.43
-   ],
-   [
-    "2026-10-02",
-    63.26
-   ],
-   [
-    "2026-10-07",
-    140.15
-   ],
-   [
-    "2026-10-16",
-    55.3
-   ],
-   [
-    "2026-10-31",
-    129.78
-   ],
-   [
-    "2026-11-08",
-    137.99
-   ],
-   [
-    "2026-11-14",
-    45.29
-   ],
-   [
-    "2026-11-15",
-    45.29
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:50448766206291",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Low Mulberry (Donna)",
-  "price": 70.0,
-  "ref": 160.0,
-  "pct": 56.2,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-low-mulberry-womens?variant=50448766206291",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/Air-Jordan-1-Low-Mulberry-W-Product.jpg?v=1740054274",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    70.0
-   ],
-   [
-    "2026-11-15",
-    70.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47549064249683",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Adidas Forum 84 Low Adv",
-  "price": 70.0,
-  "ref": 160.0,
-  "pct": 56.2,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/adidas-forum-84-low-adv?variant=47549064249683",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/7b179280b08711ee90214d84ab2045c2.jpg?v=1704980646",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    70.0
-   ],
-   [
-    "2026-11-15",
-    70.0
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0B4T3MCXN",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "Legero Sneaker Tanaro da Donna, Indacox Blu 8600, 44 EU",
-  "price": 34.52,
-  "ref": 78.3,
-  "pct": 55.9,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0B4T3MCXN?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/213sy1YZLXL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-08-20",
-    70.41
-   ],
-   [
-    "2026-09-02",
-    70.39
+    103.21
    ],
    [
     "2026-09-07",
-    66.6
+    107.61
    ],
    [
-    "2026-09-11",
-    75.66
-   ],
-   [
-    "2026-09-13",
-    87.96
+    "2026-09-12",
+    114.55
    ],
    [
     "2026-09-17",
-    75.97
+    103.21
    ],
    [
-    "2026-09-21",
-    79.16
-   ],
-   [
-    "2026-09-29",
-    89.95
-   ],
-   [
-    "2026-10-09",
-    70.33
+    "2026-09-24",
+    98.04
    ],
    [
     "2026-10-12",
-    89.95
+    71.48
    ],
    [
-    "2026-10-15",
-    73.84
+    "2026-10-16",
+    57.9
    ],
    [
-    "2026-10-22",
-    89.95
+    "2026-10-19",
+    58.88
    ],
    [
-    "2026-10-29",
-    77.64
+    "2026-10-21",
+    67.7
+   ],
+   [
+    "2026-10-26",
+    123.38
+   ],
+   [
+    "2026-10-27",
+    124.51
    ],
    [
     "2026-10-31",
-    79.28
+    126.4
    ],
    [
-    "2026-11-08",
-    80.93
-   ],
-   [
-    "2026-11-14",
-    34.52
+    "2026-11-01",
+    130.0
    ],
    [
     "2026-11-15",
-    34.52
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46775670735187",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Nike Air Max Axis",
-  "price": 40.0,
-  "ref": 90.0,
-  "pct": 55.6,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/nike-air-max-axis-1?variant=46775670735187",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/df583600119a11ee8ed2873ba848fbe2.jpg?v=1687506738",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    40.0
-   ],
-   [
-    "2026-11-15",
-    40.0
-   ]
-  ]
- },
- {
-  "key": "shopify_celebre_it:52768301777243",
-  "source": "shopify_celebre_it",
-  "category": "altro",
-  "name": "L'Oréal Professionnel Keratin Alpha Sleek Shampoo Refill 1000ml",
-  "price": 21.99,
-  "ref": 49.0,
-  "pct": 55.1,
-  "level": "offerta",
-  "shop": "Celebre Store",
-  "url": "https://celebrestore.com/products/loreal-ricarica-shampoo-cheratina-lisciante?variant=52768301777243",
-  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/loreal-ricarica-shampoo-cheratina-lisciante.jpg?v=1775576914",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    21.99
-   ],
-   [
-    "2026-11-15",
-    21.99
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:47406664384851",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Tuta Completa Jordan",
-  "price": 90.0,
-  "ref": 200.0,
-  "pct": 55.0,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/tuta-completa-jordan?variant=47406664384851",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8627376750931_hd.jpg?v=1782932270",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46680710119763",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Mid Chutney Taxi (Donna)",
-  "price": 90.0,
-  "ref": 200.0,
-  "pct": 55.0,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-mid-chutney-taxi-w?variant=46680710119763",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Chutney-Taxi-W.webp?v=1685715717",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46756860690771",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Jordan 1 Mid SE Christmas (Bambino) (EU 36)",
-  "price": 90.0,
-  "ref": 200.0,
-  "pct": 55.0,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/jordan-1-mid-se-christmas-gs?variant=46756860690771",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8b10de000ed711ee8f1aa7d2f5e5e594.png?v=1687202942",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:46676653277523",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Air Jordan 1 Mid Taxi (Bambino) (EU 36)",
-  "price": 90.0,
-  "ref": 200.0,
-  "pct": 55.0,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/air-jordan-1-mid-taxi-gs?variant=46676653277523",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Air-Jordan-1-Mid-Taxi-GS.webp?v=1685623421",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    90.0
-   ],
-   [
-    "2026-11-15",
-    90.0
+    58.5
    ]
   ]
  },
@@ -3997,14 +123,14 @@
   "category": "altro",
   "name": "SEAC Motus, Pinne Lunghe per Immersioni, apnea e Pesca Subacquea ricreativa e da Gara, Verde, 36/38",
   "price": 39.0,
-  "ref": 85.81,
-  "pct": 54.6,
+  "ref": 81.99,
+  "pct": 52.4,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B0775RN88Z?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/41Ybbtwq20L.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-09-19",
@@ -4093,6 +219,4073 @@
   ]
  },
  {
+  "key": "amazon_it:B07DCDV15Y",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "PUMA Women Cali Wn's Sneakers, Puma White-Puma White, 37.5 EU",
+  "price": 36.01,
+  "ref": 75.06,
+  "pct": 52.0,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B07DCDV15Y?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/21StuZUUTmL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-08-26",
+    53.3
+   ],
+   [
+    "2026-08-27",
+    52.2
+   ],
+   [
+    "2026-09-03",
+    49.56
+   ],
+   [
+    "2026-09-04",
+    49.93
+   ],
+   [
+    "2026-09-09",
+    44.97
+   ],
+   [
+    "2026-09-18",
+    80.89
+   ],
+   [
+    "2026-09-19",
+    71.05
+   ],
+   [
+    "2026-09-21",
+    72.04
+   ],
+   [
+    "2026-09-22",
+    75.4
+   ],
+   [
+    "2026-09-23",
+    51.15
+   ],
+   [
+    "2026-09-28",
+    75.38
+   ],
+   [
+    "2026-10-02",
+    46.82
+   ],
+   [
+    "2026-10-13",
+    86.26
+   ],
+   [
+    "2026-10-16",
+    84.01
+   ],
+   [
+    "2026-10-17",
+    75.26
+   ],
+   [
+    "2026-10-18",
+    74.86
+   ],
+   [
+    "2026-10-19",
+    78.33
+   ],
+   [
+    "2026-10-24",
+    74.7
+   ],
+   [
+    "2026-10-28",
+    48.52
+   ],
+   [
+    "2026-10-31",
+    48.88
+   ],
+   [
+    "2026-11-01",
+    48.69
+   ],
+   [
+    "2026-11-03",
+    44.52
+   ],
+   [
+    "2026-11-06",
+    84.9
+   ],
+   [
+    "2026-11-09",
+    83.43
+   ],
+   [
+    "2026-11-10",
+    84.53
+   ],
+   [
+    "2026-11-15",
+    36.01
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B000Y3U1S4",
+  "source": "amazon_it",
+  "category": "moda",
+  "name": "Wrangler - Jeans Uomo - vestibilità Dritta Authentic - Texas - Darkstone",
+  "price": 29.54,
+  "ref": 61.37,
+  "pct": 51.9,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B000Y3U1S4?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/41ufNgyhuhL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-08-17",
+    36.67
+   ],
+   [
+    "2026-08-21",
+    67.96
+   ],
+   [
+    "2026-08-25",
+    63.99
+   ],
+   [
+    "2026-09-02",
+    50.72
+   ],
+   [
+    "2026-09-06",
+    34.15
+   ],
+   [
+    "2026-09-09",
+    39.87
+   ],
+   [
+    "2026-09-12",
+    63.96
+   ],
+   [
+    "2026-09-14",
+    50.72
+   ],
+   [
+    "2026-09-16",
+    51.99
+   ],
+   [
+    "2026-09-19",
+    67.99
+   ],
+   [
+    "2026-09-23",
+    51.99
+   ],
+   [
+    "2026-09-25",
+    59.99
+   ],
+   [
+    "2026-10-05",
+    63.97
+   ],
+   [
+    "2026-10-08",
+    63.99
+   ],
+   [
+    "2026-10-09",
+    55.17
+   ],
+   [
+    "2026-10-11",
+    67.96
+   ],
+   [
+    "2026-10-12",
+    71.99
+   ],
+   [
+    "2026-10-16",
+    67.99
+   ],
+   [
+    "2026-10-23",
+    79.95
+   ],
+   [
+    "2026-10-26",
+    71.99
+   ],
+   [
+    "2026-10-30",
+    69.9
+   ],
+   [
+    "2026-11-11",
+    59.9
+   ],
+   [
+    "2026-11-15",
+    29.54
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:53216115130715",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Kérastase Mug Tazza Riutilizzabile Lussuosa",
+  "price": 9.99,
+  "ref": 60.0,
+  "pct": 83.4,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/kerastase-tazza-mug-riutilizzabile?variant=53216115130715",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/tazza-kerastase-mug-viola.jpg?v=1780313511",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    9.99
+   ],
+   [
+    "2026-11-15",
+    9.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:48095618957651",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Ciabatta Fila Morro Bay Slipper Wmn (EU 37)",
+  "price": 10.0,
+  "ref": 60.0,
+  "pct": 83.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/ciabatte-fila-morro-bay-slipper-wmn?variant=48095618957651",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8874153181523_hd.jpg?v=1782932524",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    10.0
+   ],
+   [
+    "2026-11-15",
+    10.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:50088295006555",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "K18 Damage Shield Shampoo e Conditioner 7+7ml",
+  "price": 3.99,
+  "ref": 19.99,
+  "pct": 80.0,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/k18-damage-shield-shampoo-conditioner?variant=50088295006555",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/k18-shampoo-e-balsamo.jpg?v=1775569021",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    3.99
+   ],
+   [
+    "2026-11-15",
+    3.99
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B00J25ROSA",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "Black & Decker BDHT0-66451 Set 12 Giraviti",
+  "price": 19.9,
+  "ref": 94.41,
+  "pct": 78.9,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B00J25ROSA?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/41MoM2fdGqL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-08-20",
+    67.44
+   ],
+   [
+    "2026-09-17",
+    83.9
+   ],
+   [
+    "2026-10-04",
+    103.16
+   ],
+   [
+    "2026-10-06",
+    123.79
+   ],
+   [
+    "2026-10-12",
+    256.69
+   ],
+   [
+    "2026-11-14",
+    19.9
+   ],
+   [
+    "2026-11-15",
+    19.9
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:53722755268955",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Foulard Kérastase - Accessorio Luxury",
+  "price": 9.99,
+  "ref": 40.0,
+  "pct": 75.0,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/foulard-kerastase-accessorio-capelli?variant=53722755268955",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/foulard-kerastase-accessorio_2.png?v=1785934335",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    9.99
+   ],
+   [
+    "2026-11-15",
+    9.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:52682324902235",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Kérastase K-Bag Charm Pettine – Portachiavi Elegante Accessorio Capelli",
+  "price": 4.99,
+  "ref": 19.99,
+  "pct": 75.0,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/portachiavi-kerastase-accessorio-regalo?variant=52682324902235",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/kerastase-portachiavi-accessorio-regalo.jpg?v=1775576012",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:54428884074843",
+  "source": "shopify_celebre_it",
+  "category": "bellezza",
+  "name": "Kérastase Chronologiste L’Huile de Parfum 15 ml – Olio Profumato per Capelli",
+  "price": 4.99,
+  "ref": 19.9,
+  "pct": 74.9,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/kerastase-chronologiste-olio-profumato-capelli?variant=54428884074843",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/KerastaseGlassHaircareBottle-9.png?v=1792507027",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46677923070291",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "New Balance 550 White Blue Groove",
+  "price": 50.0,
+  "ref": 190.0,
+  "pct": 73.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/new-balance-550-white-blue-groove?variant=46677923070291",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/New-Balance-550-White-Blue-Groove-Product.webp?v=1685635532",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46677969928531",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "New Balance 550",
+  "price": 50.0,
+  "ref": 190.0,
+  "pct": 73.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/new-balance-550-syracuse?variant=46677969928531",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/New-Balance-550-Syracuse-Product.webp?v=1685635942",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46677926642003",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "New Balance 550 Marquette (EU 37)",
+  "price": 50.0,
+  "ref": 190.0,
+  "pct": 73.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/new-balance-550-marquette?variant=46677926642003",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/New-Balance-550-Marquette-Product.webp?v=1685635557",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46677920743763",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "New Balance 550 Burnt Orange",
+  "price": 50.0,
+  "ref": 190.0,
+  "pct": 73.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/new-balance-550-burnt-orange?variant=46677920743763",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/New-Balance-550-Burnt-Orange.webp?v=1685635517",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:53355753505115",
+  "source": "shopify_celebre_it",
+  "category": "bellezza",
+  "name": "Redken Bag Pochette Borsa Beauty Case Nera",
+  "price": 7.99,
+  "ref": 29.99,
+  "pct": 73.4,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/redken-pochette-borsa-nera?variant=53355753505115",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/redken-pochette-borsa-bag-nera.jpg?v=1781101787",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    7.99
+   ],
+   [
+    "2026-11-15",
+    7.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46775669195091",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Nike Air Force 1 Rebel Xx Praline (Donna) (EU 37.5)",
+  "price": 40.0,
+  "ref": 150.0,
+  "pct": 73.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/nike-air-force-1-rebel-xx-praline-womens?variant=46775669195091",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/15c50a10165511ee947ec78af6fd0272.png?v=1688026520",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46734499021139",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "New Balance 550 Sea Salt Yellow (Bambino)",
+  "price": 50.0,
+  "ref": 170.0,
+  "pct": 70.6,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/new-balance-550-sea-salt-yellow-gs?variant=46734499021139",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/a31fa1a00c4511eea65b2b5c36e6ed62.png?v=1686920374",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47539882426707",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "New Balance 550 (EU 35.5)",
+  "price": 50.0,
+  "ref": 170.0,
+  "pct": 70.6,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/new-balance-552?variant=47539882426707",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8435773309267_hd.jpg?v=1782931959",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46734493417811",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "New Balance 550 (EU 36)",
+  "price": 50.0,
+  "ref": 170.0,
+  "pct": 70.6,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/new-balance-551?variant=46734493417811",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/7ea549000c3711ee9486c36cd9effcef.png?v=1686914308",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B01DA3M4CK",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "Colombo | Alpina 30 Stendibiancheria Verticale 30 m di Stenditura",
+  "price": 32.1,
+  "ref": 108.97,
+  "pct": 70.5,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B01DA3M4CK?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/41rkUYKWF4L.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-10-31",
+    115.0
+   ],
+   [
+    "2026-11-14",
+    32.1
+   ],
+   [
+    "2026-11-15",
+    32.1
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:50482203689299",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "New Balance 550 White Classic Green",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/new-balance-550-white-classic-green?variant=50482203689299",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/fe849e401bec11eea3e461067d98a01d.jpg?v=1688641520",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47446894608723",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 00s Collegiate Green Energy Ink",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-00s-8?variant=47446894608723",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8600355504467_hd.jpg?v=1782932249",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47229580902739",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 00s Dark Green Cloud White",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-00s-dark-green-cloud-white?variant=47229580902739",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8573743006035_hd.jpg?v=1782932228",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47197160014163",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 00s Green Cloud White (Donna) (EU 42 2/3)",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-00s-green-cloud-white-womens-1?variant=47197160014163",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/da5ec0106a7311eeb99ca5f36552eb50.jpg?v=1697275634",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47294146576723",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 00s J Orange Gum (EU 35.5)",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-00s-3?variant=47294146576723",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/e4a0f34050b511eeb74781295ace540a.jpg?v=1694445267",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46948350722387",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 00s Collegiate Green (EU 36)",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-00s-collegiate-green-1?variant=46948350722387",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/a4b59f70377d11eebc905ba56af19055.jpg?v=1691672330",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46757333631315",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 00s Almost Yellow Core Black",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-00s-almost-yellow-core-black?variant=46757333631315",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/d892a9900ed411ee9f3a5f1a1555e096.png?v=1687201784",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46838884630867",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 2 W (EU 38 2/3)",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-2-w?variant=46838884630867",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8471201710419_hd.jpg?v=1782932025",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46676607140179",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 00s Spice Yellow",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-00s-spice-yellow?variant=46676607140179",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/adidas-Campus-00s-Spice-Yellow-Product.webp?v=1686844824",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46757347852627",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 00s Zalando Exclusive Glow in The Dark Beige",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-00s-zalando-exclusive-glow-in-the-dark-beige?variant=46757347852627",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/3139f9900ed511ee8f1aa7d2f5e5e594.png?v=1687201933",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46676586922323",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 00s Better Scarlet Cloud White (EU 47 1/3)",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-00s-better-scarlet-cloud-white?variant=46676586922323",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/adidas-Campus-00s-Better-Scarlet-Cloud-White-Product.webp?v=1686844898",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46704481599827",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 00s Pantone Cloud White (EU 36)",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-00s-pantone-cloud-white?variant=46704481599827",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/a379b12006b611eeb27897ff3f75a9f8.png?v=1686309201",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:50449423106387",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 00s Amber Tint (EU 37 1/3)",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-00s-amber-tint?variant=50449423106387",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/7ae367e0060911eebb3ea15406193cf1.png?v=1686234831",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46704432349523",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 00s Semi Screaming Green (EU 44)",
+  "price": 50.0,
+  "ref": 160.0,
+  "pct": 68.8,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-00s-semi-screaming-green?variant=46704432349523",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/1cbfa110061311ee9a9083fcb82e1fba.png?v=1686238969",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:50449454596435",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Mid Reverse Chicago (Donna) (Special) (EU 37.5)",
+  "price": 70.0,
+  "ref": 220.0,
+  "pct": 68.2,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-mid-reverse-chicago-w-special-1?variant=50449454596435",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Reverse-Chicago-W-Product.webp?v=1685622910",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    70.0
+   ],
+   [
+    "2026-11-15",
+    70.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:50987012522323",
+  "source": "shopify_onestreet_it",
+  "category": "moda",
+  "name": "Shirt Adidas X Fc Bayern Monaco (S)",
+  "price": 30.0,
+  "ref": 90.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/shirt-adidas-x-fc-bayern-monaco?variant=50987012522323",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/image-Photoroom_1.png?v=1747319350",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    30.0
+   ],
+   [
+    "2026-11-15",
+    30.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:48083797836115",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Nike Ciabatta WMNS Benassi Jdi",
+  "price": 20.0,
+  "ref": 60.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/nike-ciabatta-wmns-benassi-jdi?variant=48083797836115",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8869773017427_hd.jpg?v=1782932477",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    20.0
+   ],
+   [
+    "2026-11-15",
+    20.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:48083785646419",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Nike Ciabatta Benassi Jdi (EU 38.5)",
+  "price": 20.0,
+  "ref": 60.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/nike-ciabatta-benassi-jdi?variant=48083785646419",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8869765284179_hd.jpg?v=1782932472",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    20.0
+   ],
+   [
+    "2026-11-15",
+    20.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46861310722387",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Hi (EU 36)",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-hi-4?variant=46861310722387",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/ed1895b0258a11eebe26df516ac40c0a.jpg?v=1689698912",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46861247316307",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Ox (EU 36)",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-ox?variant=46861247316307",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8476036858195_hd.jpg?v=1782932113",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46861221462355",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Move Hi",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-move-hi-2?variant=46861221462355",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8476032729427_hd.jpg?v=1782932103",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46861219987795",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Move Hi",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-move-hi-1?variant=46861219987795",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8476032303443_hd.jpg?v=1782932098",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46861054640467",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Lugged Winter 2.0 Hi (EU 36.5)",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-lugged-winter-2-0-hi-2?variant=46861054640467",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8475944026451_hd.jpg?v=1782932093",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46860965609811",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Hi (EU 36)",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-hi-3?variant=46860965609811",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/c0c3a110257d11eebe26df516ac40c0a.jpg?v=1689693254",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46860916326739",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Lift Hi",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-lift-hi-2?variant=46860916326739",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/ba19a7c0257c11eebe26df516ac40c0a.webp?v=1689692814",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46860898500947",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Lift Ox",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-lift-ox-2?variant=46860898500947",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8475832779091_hd.jpg?v=1782932090",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46860847776083",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Lugged Winter 2.0 Hi (EU 36.5)",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-lugged-winter-2-0-hi-1?variant=46860847776083",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/efbd9140257a11eebe26df516ac40c0a.jpg?v=1689692045",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46860794790227",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Lift Hi",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-lift-hi-1?variant=46860794790227",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/7575db40257a11eebe26df516ac40c0a.jpg?v=1689691840",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46860781683027",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Lift Ox (EU 36.5)",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-lift-ox-1?variant=46860781683027",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/34d07aa0257a11eebe26df516ac40c0a.jpg?v=1689691731",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46860776636755",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Net Star Classic Ox (EU 39)",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-net-star-classic-ox?variant=46860776636755",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/e2c73280257911eebe26df516ac40c0a.jpg?v=1689691594",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46860774015315",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Hi (EU 36)",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-hi?variant=46860774015315",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/a5246380257911eebe26df516ac40c0a.jpg?v=1689691490",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46860769460563",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Hiker Hi (EU 37)",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-hiker-hi?variant=46860769460563",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/5d040880257911eebe26df516ac40c0a.jpg?v=1689691369",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46860764971347",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Lugged Winter Hi",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-lugged-winter-hi?variant=46860764971347",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8475754398035_hd.jpg?v=1782932084",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46860758745427",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Lift Ox",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-lift-ox?variant=46860758745427",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/968bed80257811eebe26df516ac40c0a.webp?v=1689691036",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46860739477843",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Move Ox",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-move-ox?variant=46860739477843",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/c22a6130257611eebe26df516ac40c0a.jpg?v=1689690250",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46860737773907",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Ctas Lift Hi (EU 36)",
+  "price": 40.0,
+  "ref": 120.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-ctas-lift-hi?variant=46860737773907",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8475746664787_hd.jpg?v=1782932079",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:54428976546139",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Redken Acidic Grow Full System Shampoo 75 ml – Shampoo Densificante",
+  "price": 4.99,
+  "ref": 14.99,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/redken-shampoo-acidic-grow-full-system-piccolo?variant=54428976546139",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleproductphoto-6.png?v=1792507427",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:50724460855643",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Assicurazione Totale – Rimborso Immediato per Danneggiamento e Smarrimento Pacchi",
+  "price": 1.0,
+  "ref": 3.0,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/assicurazione-rimborso-immediato-spedizione?variant=50724460855643",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/assicurazione-pacchi-spedizione.jpg?v=1775571995",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    1.0
+   ],
+   [
+    "2026-11-15",
+    1.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:49793797947739",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Medavita Huile D'etoile Maschera di Oli Illuminante 50ml",
+  "price": 4.99,
+  "ref": 14.99,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/medavita-huile-detoile-maschera-capelli-spenti?variant=49793797947739",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Huiled_etoileMaschera.jpg?v=1775568020",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:49784054219099",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Medavita Lotion Concentreè Shampoo Anticaduta Uomo 55ml - Travel Size",
+  "price": 4.99,
+  "ref": 14.99,
+  "pct": 66.7,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/medavita-shampoo-anticaduta-uomo?variant=49784054219099",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Progettosenzatitolo_54.jpg?v=1775567179",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:54429322871131",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Redken All Soft Conditioner 50 ml – Balsamo per Capelli Secchi",
+  "price": 4.99,
+  "ref": 14.9,
+  "pct": 66.5,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/redken-all-soft-balsamo-capelli-secchi?variant=54429322871131",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/KerastaseGlassBottleStudioShot-2.png?v=1792508786",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:54429198221659",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Redken Acidic Color Gloss Conditioner 50 ml – Balsamo per Capelli Colorati",
+  "price": 4.99,
+  "ref": 14.9,
+  "pct": 66.5,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/redken-acidic-color-gloss-balsamo?variant=54429198221659",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleonwhite-3.png?v=1792508444",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:54429124788571",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Redken Acidic Color Gloss Termoprotettore 45 ml – Spray Senza Risciacquo",
+  "price": 4.99,
+  "ref": 14.9,
+  "pct": 66.5,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/redken-acidic-color-gloss-termoprotettore?variant=54429124788571",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleonwhite-4.png?v=1792508268",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:54428996403547",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Redken Acidic Grow Full System Conditioner 50 ml – Balsamo Densificante",
+  "price": 4.99,
+  "ref": 14.9,
+  "pct": 66.5,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/redken-acidic-grow-full-system-conditioner?variant=54428996403547",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleonwhite-5.png?v=1792507516",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:54428921921883",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Redken One United 30 ml – Spray Multibeneficio e Termoprotettore",
+  "price": 4.99,
+  "ref": 14.9,
+  "pct": 66.5,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/redken-one-united-30ml?variant=54428921921883",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleproductshot-8_6bce0692-6781-4ec4-a32a-cc40321a6c5b.png?v=1792507242",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:54428841050459",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Redken Acidic Grow Full System Scalp & Hair Serum 45 ml",
+  "price": 4.99,
+  "ref": 14.9,
+  "pct": 66.5,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/redken-acidic-grow-siero-capelli-fini?variant=54428841050459",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/KerastaseGlassBottleonWhite-7.png?v=1792507072",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:53866872275291",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "L'Oréal Scalp Advanced Shampoo Anti-Oiliness 100ml Travel Size",
+  "price": 4.99,
+  "ref": 14.9,
+  "pct": 66.5,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/loreal-shampoo-capelli-grassi-travel-size?variant=53866872275291",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/loreal-shampoo-capelli-grassi-professionale_1.jpg?v=1775570109",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B0846H2LJC",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "Legero 2000503 Donna Stivali da neve, Black 0000, 37 EU",
+  "price": 43.97,
+  "ref": 127.44,
+  "pct": 65.5,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0846H2LJC?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/218ntvrHSeL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-09-17",
+    127.37
+   ],
+   [
+    "2026-09-27",
+    119.95
+   ],
+   [
+    "2026-11-11",
+    140.0
+   ],
+   [
+    "2026-11-14",
+    43.97
+   ],
+   [
+    "2026-11-15",
+    43.97
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47677820076371",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "New Balance 9060 Tea Tree",
+  "price": 90.0,
+  "ref": 260.0,
+  "pct": 65.4,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/new-balance-9060-tea-tree?variant=47677820076371",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/c85615a0c9c111ee91752b4756c8104c.jpg?v=1707754466",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46680651432275",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Mid Linen",
+  "price": 90.0,
+  "ref": 260.0,
+  "pct": 65.4,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-mid-linen?variant=46680651432275",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Linen-Product.webp?v=1685714720",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47022406795603",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Shorts Nike (XS)",
+  "price": 25.0,
+  "ref": 70.0,
+  "pct": 64.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/shorts-nike-7?variant=47022406795603",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/8e05f7e0480b11eeae250b901a1db57b.jpg?v=1693492499",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    25.0
+   ],
+   [
+    "2026-11-15",
+    25.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47022134493523",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Shorts Cargo Nike",
+  "price": 25.0,
+  "ref": 70.0,
+  "pct": 64.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/shorts-cargo-nike?variant=47022134493523",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/446ba3e0480711eeae250b901a1db57b.jpg?v=1693490660",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    25.0
+   ],
+   [
+    "2026-11-15",
+    25.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47022023016787",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Shorts Nike (XS)",
+  "price": 25.0,
+  "ref": 70.0,
+  "pct": 64.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/shorts-nike-3?variant=47022023016787",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/6462ffb0480511ee8d81d7cf09ace977.jpg?v=1693991304",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    25.0
+   ],
+   [
+    "2026-11-15",
+    25.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47021896204627",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Shorts Nike",
+  "price": 25.0,
+  "ref": 70.0,
+  "pct": 64.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/shorts-nike-2?variant=47021896204627",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/8fca84e0480311ee8d81d7cf09ace977.jpg?v=1693489064",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    25.0
+   ],
+   [
+    "2026-11-15",
+    25.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47020947505491",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Shorts Nike (XS)",
+  "price": 25.0,
+  "ref": 70.0,
+  "pct": 64.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/shorts-nike-1?variant=47020947505491",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/aa009ee047ee11ee919d8b776f766573.jpg?v=1693480091",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    25.0
+   ],
+   [
+    "2026-11-15",
+    25.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:50449442308435",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Campus 00s Energy Ink (Bambino)",
+  "price": 50.0,
+  "ref": 140.0,
+  "pct": 64.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-campus-00s-energy-ink-kids?variant=50449442308435",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/adidas-Campus-00s-Energy-Ink-Kids-Product.jpg?v=1740062154",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:49900023677275",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Medavita Idol Texture Satin Lacca Gas Forte Ultra-Dry 75ml - Styling",
+  "price": 4.99,
+  "ref": 13.99,
+  "pct": 64.3,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/medavita-idol-lacca-per-styling-capelli-forte?variant=49900023677275",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Medavita_Idol_Texture_Satin_Lacca_Gas_Forte_Ultra-Dry_75ml.jpg?v=1775568249",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:49812543865179",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Medavita Huile d’Étoile Shampoo di Oli Inebriante 55ml",
+  "price": 4.99,
+  "ref": 13.99,
+  "pct": 64.3,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/medavita-huile-d-toile-shampoo-illuminante?variant=49812543865179",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Medavita_Huile_detoile_Shampoo_di_Oli_Inebriante_55ml.jpg?v=1775568114",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:49794032959835",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Medavita Blondie All Blondes Bonding Shampoo 55ml - Shampoo per Tutti i Capelli Biondi",
+  "price": 4.99,
+  "ref": 13.99,
+  "pct": 64.3,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/medavita-blondie-shampoo-capelli-biondi-decolorati?variant=49794032959835",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/medavitablondieshampoo_4.jpg?v=1775567634",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:49793893073243",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Medavita Prodige Shampoo Rigenerante 55ml - per Capelli Danneggiati",
+  "price": 4.99,
+  "ref": 13.99,
+  "pct": 64.3,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/medavita-prodige-shampoo-per-capelli-danneggiati?variant=49793893073243",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/medavita-prodige-shampoo_1.jpg?v=1775568692",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:49793613201755",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Medavita Curladdict Shampoo Elasticizzante 55ml - Per Capelli Ricci e Mossi",
+  "price": 4.99,
+  "ref": 13.99,
+  "pct": 64.3,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/medavita-shampoo-per-capelli-ricci-e-mossi?variant=49793613201755",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Medavita_Curladdict_shampoo.jpg?v=1775567822",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46756886413651",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Nike Air Force 1 Low '07 Multi-Color Gradient (Donna) (EU 38)",
+  "price": 70.0,
+  "ref": 190.0,
+  "pct": 63.2,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/nike-air-force-1-low-07-multi-color-gradient-womens?variant=46756886413651",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/eeda1ae00ed811ee8f1aa7d2f5e5e594.png?v=1687203541",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    70.0
+   ],
+   [
+    "2026-11-15",
+    70.0
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B0CSDRXJGK",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "Superfit CRYSTAL warm gefütterte Gore-Tex - Stivali da neve, Hellgrau 2510,",
+  "price": 23.08,
+  "ref": 62.49,
+  "pct": 63.1,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0CSDRXJGK?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/31Rt2JAYJZL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-09-10",
+    66.17
+   ],
+   [
+    "2026-09-24",
+    62.36
+   ],
+   [
+    "2026-09-27",
+    62.37
+   ],
+   [
+    "2026-10-04",
+    60.73
+   ],
+   [
+    "2026-10-10",
+    62.83
+   ],
+   [
+    "2026-10-18",
+    61.3
+   ],
+   [
+    "2026-10-24",
+    61.83
+   ],
+   [
+    "2026-10-30",
+    62.0
+   ],
+   [
+    "2026-11-05",
+    62.2
+   ],
+   [
+    "2026-11-06",
+    62.56
+   ],
+   [
+    "2026-11-11",
+    62.66
+   ],
+   [
+    "2026-11-14",
+    23.08
+   ],
+   [
+    "2026-11-15",
+    23.08
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:51042837725531",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Medavita Choice Glowing Shampoo 55 ml – Lucentezza istantanea per capelli colorati",
+  "price": 4.99,
+  "ref": 12.99,
+  "pct": 61.6,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/medavita-choice-glowing-shampoo?variant=51042837725531",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/medavita-choice-shampoo-capelli.jpg?v=1775572751",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:52867310027099",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Redken Blondage High Bright Conditioner 300 ML – Balsamo Illuminante per Capelli Biondi",
+  "price": 17.2,
+  "ref": 44.5,
+  "pct": 61.3,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/redken-balsamo-illuminante-capelli-biondi?variant=52867310027099",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/redken-balsamo-illuminante-capelli-biondi.jpg?v=1777044682",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    17.2
+   ],
+   [
+    "2026-11-15",
+    17.2
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B0CRFDHLX3",
+  "source": "amazon_it",
+  "category": "moda",
+  "name": "LEE - Jeans Uomo - Vestibilità Slim Dritta - Extreme Motion - Bolton",
+  "price": 26.63,
+  "ref": 68.72,
+  "pct": 61.2,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0CRFDHLX3?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/21KXdw3-FJL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-08-30",
+    70.11
+   ],
+   [
+    "2026-09-06",
+    71.0
+   ],
+   [
+    "2026-09-12",
+    71.91
+   ],
+   [
+    "2026-09-16",
+    49.42
+   ],
+   [
+    "2026-09-21",
+    48.79
+   ],
+   [
+    "2026-09-24",
+    65.4
+   ],
+   [
+    "2026-09-26",
+    64.85
+   ],
+   [
+    "2026-10-08",
+    61.99
+   ],
+   [
+    "2026-10-10",
+    70.45
+   ],
+   [
+    "2026-10-16",
+    75.0
+   ],
+   [
+    "2026-10-25",
+    72.1
+   ],
+   [
+    "2026-10-29",
+    75.0
+   ],
+   [
+    "2026-10-31",
+    72.1
+   ],
+   [
+    "2026-11-14",
+    26.63
+   ],
+   [
+    "2026-11-15",
+    26.63
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B09JGFR975",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "PIECES Pcbozzy Ls Loose Blazer Noos Bc Blazer, Bianco (Cloud Dancer), L Donna",
+  "price": 15.75,
+  "ref": 39.55,
+  "pct": 60.2,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B09JGFR975?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/21c6MczWvnL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-08-17",
+    44.9
+   ],
+   [
+    "2026-08-21",
+    44.88
+   ],
+   [
+    "2026-08-25",
+    23.8
+   ],
+   [
+    "2026-09-02",
+    44.9
+   ],
+   [
+    "2026-09-16",
+    49.9
+   ],
+   [
+    "2026-09-23",
+    34.43
+   ],
+   [
+    "2026-09-28",
+    31.1
+   ],
+   [
+    "2026-09-30",
+    31.36
+   ],
+   [
+    "2026-10-05",
+    49.9
+   ],
+   [
+    "2026-10-10",
+    31.36
+   ],
+   [
+    "2026-10-16",
+    25.49
+   ],
+   [
+    "2026-10-21",
+    27.54
+   ],
+   [
+    "2026-10-25",
+    49.9
+   ],
+   [
+    "2026-11-09",
+    39.9
+   ],
+   [
+    "2026-11-14",
+    15.75
+   ],
+   [
+    "2026-11-15",
+    15.75
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:54272072712539",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Pennello parrucchiere per trattamenti Kérastase",
+  "price": 3.99,
+  "ref": 9.99,
+  "pct": 60.1,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/pennello-parrucchiere-kerastase-trattamento?variant=54272072712539",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/pennello-parrucchiere-colore-kerastase_1.png?v=1791459197",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    3.99
+   ],
+   [
+    "2026-11-15",
+    3.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:53359461859675",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Elastico Capelli Laccato Argento L’Oréal Professionnel",
+  "price": 3.99,
+  "ref": 9.99,
+  "pct": 60.1,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/loreal-elastico-capelli?variant=53359461859675",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/loreal-elastico-capelli.jpg?v=1781171320",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    3.99
+   ],
+   [
+    "2026-11-15",
+    3.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:50373348262235",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Medavita Blondie All Blondes Bonding Deep Mask 50ml",
+  "price": 4.99,
+  "ref": 12.5,
+  "pct": 60.1,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/medavita-blondie-maschera-capelli-biondi?variant=50373348262235",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/medavita-maschera-capelli-biondi-50ml.jpg?v=1775569407",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    4.99
+   ],
+   [
+    "2026-11-15",
+    4.99
+   ]
+  ]
+ },
+ {
+  "key": "awin_acer_it:24634925475",
+  "source": "awin_acer_it",
+  "category": "informatica",
+  "name": "5 anni Carry-in incluso 1º anno di garanzia internazionale | Monitor Consumer & Commerciali",
+  "price": 19.99,
+  "ref": 49.99,
+  "pct": 60.0,
+  "level": "offerta",
+  "shop": "Acer IT",
+  "url": "https://www.awin1.com/pclick.php?p=24634925475&a=3152592&m=15530",
+  "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___c__c_o_commercial_we_monitor_1_sv.wldam.003.png",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-12",
+    19.99
+   ],
+   [
+    "2026-11-13",
+    19.99
+   ],
+   [
+    "2026-11-14",
+    19.99
+   ],
+   [
+    "2026-11-15",
+    19.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47051420696915",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Shorts Ciclista Nike (XS)",
+  "price": 20.0,
+  "ref": 50.0,
+  "pct": 60.0,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/shorts-ciclista-nike?variant=47051420696915",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/56b03f304e2d11ee8d0e8786ffc1de3d.jpg?v=1694166714",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    20.0
+   ],
+   [
+    "2026-11-15",
+    20.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:48013858079059",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Shorts Gonna Nike",
+  "price": 20.0,
+  "ref": 50.0,
+  "pct": 60.0,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/shorts-gonna-nike-2?variant=48013858079059",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/14d914c0fd8611ee9db36d104132a1ce_9bfd894d-d98a-4885-82b1-1c42df95c593.jpg?v=1713446288",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    20.0
+   ],
+   [
+    "2026-11-15",
+    20.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:53355596120411",
+  "source": "shopify_celebre_it",
+  "category": "bellezza",
+  "name": "Tappetino Termoresistente L’Oréal Professionnel per Asciugacapelli e Piastra Steampod",
+  "price": 9.99,
+  "ref": 25.0,
+  "pct": 60.0,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/tappetino-termoresistente-loreal-piastra-asciugacapelli?variant=53355596120411",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/tappetino-termoresistente-loreal-phon-piastra.jpg?v=1781099784",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    9.99
+   ],
+   [
+    "2026-11-15",
+    9.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:50992925901147",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "L’Oréal Professionnel Scalp Massaggiatore Cute in Silicone",
+  "price": 9.99,
+  "ref": 25.0,
+  "pct": 60.0,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/massaggiatore-cute-spazzola-loreal?variant=50992925901147",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/massaggiatore-cute-spazzola-loreal.jpg?v=1775572690",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    9.99
+   ],
+   [
+    "2026-11-15",
+    9.99
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B0D26RVKTZ",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "MAM Biberon Anticolica Easy Start 160 ml, Tettarella Misura 1, Lilla",
+  "price": 17.99,
+  "ref": 44.31,
+  "pct": 59.4,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0D26RVKTZ?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/21WQyeMH8rL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-08-20",
+    22.99
+   ],
+   [
+    "2026-08-21",
+    31.99
+   ],
+   [
+    "2026-08-25",
+    29.43
+   ],
+   [
+    "2026-08-28",
+    29.14
+   ],
+   [
+    "2026-09-02",
+    39.99
+   ],
+   [
+    "2026-09-18",
+    54.99
+   ],
+   [
+    "2026-10-10",
+    43.44
+   ],
+   [
+    "2026-10-14",
+    35.19
+   ],
+   [
+    "2026-10-16",
+    48.99
+   ],
+   [
+    "2026-11-15",
+    17.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46680781750611",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Low Bred Toe",
+  "price": 90.0,
+  "ref": 220.0,
+  "pct": 59.1,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-low-bred-toe?variant=46680781750611",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/5eb07b00038211eebd80c118e9c29ac4.png?v=1685957392",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46680926552403",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Mid Paris White (EU 40.5)",
+  "price": 90.0,
+  "ref": 220.0,
+  "pct": 59.1,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-mid-paris-white?variant=46680926552403",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Paris-White-Product.webp?v=1685717331",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46680884674899",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Low Cardinal Red (EU 42.5)",
+  "price": 90.0,
+  "ref": 220.0,
+  "pct": 59.1,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-low-cardinal-red?variant=46680884674899",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Low-Cardinal-Red-Product.webp?v=1685717042",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46676621295955",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Mid Reverse Chicago (Donna) (EU 36.5)",
+  "price": 90.0,
+  "ref": 220.0,
+  "pct": 59.1,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-mid-reverse-chicago-w?variant=46676621295955",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Reverse-Chicago-W-Product.webp?v=1685622910",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46595627581779",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Mid Gym Red Panda (Donna) (EU 37.5)",
+  "price": 90.0,
+  "ref": 220.0,
+  "pct": 59.1,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-mid-gym-red-panda-w?variant=46595627581779",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Gym-Red-Panda-W-Product.webp?v=1683716584",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46487478108499",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Mid Grey Green",
+  "price": 90.0,
+  "ref": 220.0,
+  "pct": 59.1,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-mid-grey-green?variant=46487478108499",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Grey-Green.jpg?v=1680559189",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46676627226963",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Retro High OG Atmosphere (Donna) (EU 36)",
+  "price": 95.0,
+  "ref": 230.0,
+  "pct": 58.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-retro-high-og-atmosphere-w?variant=46676627226963",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Retro-High-OG-Atmosphere-W-Product.webp?v=1685623053",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    95.0
+   ],
+   [
+    "2026-11-15",
+    95.0
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B0FVF87MBN",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "adidas Donna Essentials Rain Parka Coat, Black, L",
+  "price": 30.04,
+  "ref": 72.3,
+  "pct": 58.5,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0FVF87MBN?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/31Ltrz8xKnL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-09-06",
+    100.0
+   ],
+   [
+    "2026-09-23",
+    84.13
+   ],
+   [
+    "2026-10-02",
+    77.59
+   ],
+   [
+    "2026-10-11",
+    65.11
+   ],
+   [
+    "2026-10-17",
+    52.74
+   ],
+   [
+    "2026-10-23",
+    42.72
+   ],
+   [
+    "2026-10-28",
+    50.88
+   ],
+   [
+    "2026-11-05",
+    37.09
+   ],
+   [
+    "2026-11-08",
+    33.38
+   ],
+   [
+    "2026-11-09",
+    95.44
+   ],
+   [
+    "2026-11-10",
+    96.16
+   ],
+   [
+    "2026-11-11",
+    30.04
+   ],
+   [
+    "2026-11-12",
+    96.16
+   ],
+   [
+    "2026-11-14",
+    30.04
+   ],
+   [
+    "2026-11-15",
+    30.04
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46786319483219",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Chuck Taylor All-Star 70 Hi (EU 37)",
+  "price": 50.0,
+  "ref": 120.0,
+  "pct": 58.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi?variant=46786319483219",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8456195834195_hd.jpg?v=1782932015",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46786302607699",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Chuck Taylor All-Star 70 Hi Ivory (EU 39)",
+  "price": 50.0,
+  "ref": 120.0,
+  "pct": 58.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-ivory?variant=46786302607699",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8456189083987_hd.jpg?v=1782932009",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46786298970451",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Chuck Taylor All-Star 70 Hi Parchment (EU 42)",
+  "price": 50.0,
+  "ref": 120.0,
+  "pct": 58.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-parchment?variant=46786298970451",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8456188100947_hd.jpg?v=1782932004",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46785965588819",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Chuck Taylor All-Star 70 Hi Desert Cargo",
+  "price": 50.0,
+  "ref": 120.0,
+  "pct": 58.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-desert-cargo?variant=46785965588819",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8456034845011_hd.jpg?v=1782931999",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46785963458899",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Chuck Taylor All-Star 70 Hi Plus Dark Raisin Egret Black (EU 37)",
+  "price": 50.0,
+  "ref": 120.0,
+  "pct": 58.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-plus-dark-raisin-egret-black?variant=46785963458899",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/d5159750165411ee947ec78af6fd0272.png?v=1688026412",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46785960739155",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Converse Chuck Taylor All-Star 70 Hi Plus Canvas Black White",
+  "price": 50.0,
+  "ref": 120.0,
+  "pct": 58.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-plus-canvas-black-white?variant=46785960739155",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/bcd7d770165411ee947ec78af6fd0272.png?v=1688026371",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    50.0
+   ],
+   [
+    "2026-11-15",
+    50.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46676657111379",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 5 Low Girls That Hoop (Donna) (EU 37.5)",
+  "price": 100.0,
+  "ref": 240.0,
+  "pct": 58.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-5-low-girls-that-hoop-w?variant=46676657111379",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-5-Low-Arctic-Pink-W-Product.webp?v=1685623499",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    100.0
+   ],
+   [
+    "2026-11-15",
+    100.0
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B003P8QEPE",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "Aigle Benyl Xl. Stivali da Caccia da Uomo, Verde (Kaki), 43 EU",
+  "price": 52.46,
+  "ref": 125.52,
+  "pct": 58.2,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B003P8QEPE?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/31ZMECNp12L.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-08-18",
+    107.79
+   ],
+   [
+    "2026-08-25",
+    109.82
+   ],
+   [
+    "2026-08-28",
+    119.46
+   ],
+   [
+    "2026-09-04",
+    107.51
+   ],
+   [
+    "2026-11-14",
+    52.46
+   ],
+   [
+    "2026-11-15",
+    52.46
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B0BFJMWJBR",
+  "source": "amazon_it",
+  "category": "moda",
+  "name": "JJIALEX JJORIGINAL SBD 304 NOOS Jeans Baggy Fit Blu 34/34",
+  "price": 18.22,
+  "ref": 43.34,
+  "pct": 58.0,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0BFJMWJBR?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/31WtQE7KSJL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-08-28",
+    42.53
+   ],
+   [
+    "2026-08-29",
+    44.88
+   ],
+   [
+    "2026-09-12",
+    45.99
+   ],
+   [
+    "2026-09-26",
+    44.97
+   ],
+   [
+    "2026-10-01",
+    45.99
+   ],
+   [
+    "2026-10-06",
+    44.97
+   ],
+   [
+    "2026-10-09",
+    29.99
+   ],
+   [
+    "2026-10-11",
+    44.97
+   ],
+   [
+    "2026-10-18",
+    45.99
+   ],
+   [
+    "2026-11-07",
+    45.97
+   ],
+   [
+    "2026-11-10",
+    45.99
+   ],
+   [
+    "2026-11-14",
+    18.22
+   ],
+   [
+    "2026-11-15",
+    18.22
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B01H1FAJYS",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "Nobby, Guinzaglio 2 m – Classic preno",
+  "price": 17.6,
+  "ref": 41.59,
+  "pct": 57.7,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B01H1FAJYS?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/31FddN9BX2L.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-08-21",
+    30.98
+   ],
+   [
+    "2026-08-26",
+    31.0
+   ],
+   [
+    "2026-09-16",
+    41.27
+   ],
+   [
+    "2026-10-14",
+    53.29
+   ],
+   [
+    "2026-11-15",
+    17.6
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46676653736275",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Retro High Satin Snake Chicago (Donna) (EU 35.5)",
+  "price": 140.0,
+  "ref": 330.0,
+  "pct": 57.6,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-retro-high-satin-snake-chicago-w?variant=46676653736275",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Retro-High-Satin-Snake-Chicago-W-Product.jpg?v=1685977496",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    140.0
+   ],
+   [
+    "2026-11-15",
+    140.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:53355659952475",
+  "source": "shopify_celebre_it",
+  "category": "bellezza",
+  "name": "Beauty Night Kit Kérastase - Accessori Notte",
+  "price": 29.99,
+  "ref": 70.0,
+  "pct": 57.2,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/beauty-night-kit-kerastase-accessori-notte?variant=53355659952475",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/beauty-kit-night-kerastase-accessori.jpg?v=1781100724",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    29.99
+   ],
+   [
+    "2026-11-15",
+    29.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47020837405011",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Shorts Nike (XS)",
+  "price": 30.0,
+  "ref": 70.0,
+  "pct": 57.1,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/pantacostume-nike?variant=47020837405011",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8516485054803_hd.jpg?v=1782932118",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    30.0
+   ],
+   [
+    "2026-11-15",
+    30.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47312310993235",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Giubbino The North Face (Donna) 700 Retro Nuptse Fuchsia Pink",
+  "price": 150.0,
+  "ref": 350.0,
+  "pct": 57.1,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/giubbino-the-north-face-women-s-nuptse-short-fuchsia-pink?variant=47312310993235",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/29d77450820411ee9006eb6bb1bafffa.jpg?v=1699866492",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    150.0
+   ],
+   [
+    "2026-11-15",
+    150.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46756859183443",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Mid SE Ice Blue (Donna) (EU 37.5)",
+  "price": 90.0,
+  "ref": 210.0,
+  "pct": 57.1,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-mid-se-ice-blue-womens?variant=46756859183443",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/a2e04bb00ed711ee8f1aa7d2f5e5e594.png?v=1687202983",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46756855218515",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Mid SE Seahawks (Donna) (EU 36.5)",
+  "price": 90.0,
+  "ref": 210.0,
+  "pct": 57.1,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-mid-se-seahawks-womens?variant=46756855218515",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/f8af00400ed711ee8f1aa7d2f5e5e594.png?v=1687203126",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46680919736659",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Mid Syracuse",
+  "price": 90.0,
+  "ref": 210.0,
+  "pct": 57.1,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-mid-syracuse-w?variant=46680919736659",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Syracuse-W-Product.jpg?v=1685717279",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46680116625747",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Nike Dunk Low SP Kentucky (2020)",
+  "price": 120.0,
+  "ref": 280.0,
+  "pct": 57.1,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/nike-dunk-low-sp-kentucky-2020?variant=46680116625747",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/c9a38960061211ee9a9083fcb82e1fba_d8d9250a-c60f-4b2e-9426-d3256e759f61.png?v=1686238842",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    120.0
+   ],
+   [
+    "2026-11-15",
+    120.0
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B0DT4S6MMW",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "Superfit Stivali da neve Flavia con calda imbottitura Gore-tex, Rosa Argento 5530, 31 EU",
+  "price": 33.79,
+  "ref": 78.68,
+  "pct": 57.1,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0DT4S6MMW?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/31b27msLz0L.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-08-19",
+    67.06
+   ],
+   [
+    "2026-08-24",
+    67.12
+   ],
+   [
+    "2026-09-06",
+    70.46
+   ],
+   [
+    "2026-09-10",
+    70.52
+   ],
+   [
+    "2026-09-25",
+    94.99
+   ],
+   [
+    "2026-10-07",
+    85.22
+   ],
+   [
+    "2026-10-14",
+    85.23
+   ],
+   [
+    "2026-10-22",
+    66.42
+   ],
+   [
+    "2026-10-27",
+    85.23
+   ],
+   [
+    "2026-10-31",
+    85.32
+   ],
+   [
+    "2026-11-05",
+    85.63
+   ],
+   [
+    "2026-11-06",
+    85.68
+   ],
+   [
+    "2026-11-12",
+    85.23
+   ],
+   [
+    "2026-11-14",
+    33.79
+   ],
+   [
+    "2026-11-15",
+    33.79
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:54631413383515",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "Kérastase Blond Absolu Cicaflash Conditioner 75ml - Formato Prova",
+  "price": 5.99,
+  "ref": 13.9,
+  "pct": 56.9,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/kerastase-blond-absolu-cicaflash-conditioner-75ml-copia?variant=54631413383515",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/kerastase-balsamo-capelli-biondi-viola_1.png?v=1788540194",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    5.99
+   ],
+   [
+    "2026-11-15",
+    5.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:50668430950739",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Nike Air Max Portal Black Hyper Violet (Donna) (EU 37.5)",
+  "price": 65.0,
+  "ref": 150.0,
+  "pct": 56.7,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/nike-air-max-portal-black-anthracite-womens-copia?variant=50668430950739",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/portal.jpg?v=1743158041",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    65.0
+   ],
+   [
+    "2026-11-15",
+    65.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:50401856225627",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "L'Oréal Professionnel Curl Expression Shampoo Ultra Idratante – 500 ml",
+  "price": 20.99,
+  "ref": 48.15,
+  "pct": 56.4,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/loreal-shampoo-capelli-ricci-curl-expression?variant=50401856225627",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/loreal-capelli-ricci-shampoo-curlexpression.jpg?v=1775571990",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    20.99
+   ],
+   [
+    "2026-11-15",
+    20.99
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B0F7S278MX",
+  "source": "amazon_it",
+  "category": "moda",
+  "name": "NAPAPIJRI Ambers Jacket Petrolio",
+  "price": 45.29,
+  "ref": 103.54,
+  "pct": 56.3,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0F7S278MX?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/31Fh3gAyfJL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-08-28",
+    79.45
+   ],
+   [
+    "2026-09-08",
+    73.68
+   ],
+   [
+    "2026-09-18",
+    69.76
+   ],
+   [
+    "2026-09-22",
+    65.72
+   ],
+   [
+    "2026-09-25",
+    95.23
+   ],
+   [
+    "2026-09-27",
+    85.71
+   ],
+   [
+    "2026-09-30",
+    69.43
+   ],
+   [
+    "2026-10-02",
+    63.26
+   ],
+   [
+    "2026-10-07",
+    140.15
+   ],
+   [
+    "2026-10-16",
+    55.3
+   ],
+   [
+    "2026-10-31",
+    129.78
+   ],
+   [
+    "2026-11-08",
+    137.99
+   ],
+   [
+    "2026-11-14",
+    45.29
+   ],
+   [
+    "2026-11-15",
+    45.29
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:50448766206291",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Low Mulberry (Donna)",
+  "price": 70.0,
+  "ref": 160.0,
+  "pct": 56.2,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-low-mulberry-womens?variant=50448766206291",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/Air-Jordan-1-Low-Mulberry-W-Product.jpg?v=1740054274",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    70.0
+   ],
+   [
+    "2026-11-15",
+    70.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47549064249683",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Adidas Forum 84 Low Adv",
+  "price": 70.0,
+  "ref": 160.0,
+  "pct": 56.2,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/adidas-forum-84-low-adv?variant=47549064249683",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/7b179280b08711ee90214d84ab2045c2.jpg?v=1704980646",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    70.0
+   ],
+   [
+    "2026-11-15",
+    70.0
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B0B4T3MCXN",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "Legero Sneaker Tanaro da Donna, Indacox Blu 8600, 44 EU",
+  "price": 34.52,
+  "ref": 78.28,
+  "pct": 55.9,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0B4T3MCXN?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/213sy1YZLXL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-08-20",
+    70.41
+   ],
+   [
+    "2026-09-02",
+    70.39
+   ],
+   [
+    "2026-09-07",
+    66.6
+   ],
+   [
+    "2026-09-11",
+    75.66
+   ],
+   [
+    "2026-09-13",
+    87.96
+   ],
+   [
+    "2026-09-17",
+    75.97
+   ],
+   [
+    "2026-09-21",
+    79.16
+   ],
+   [
+    "2026-09-29",
+    89.95
+   ],
+   [
+    "2026-10-09",
+    70.33
+   ],
+   [
+    "2026-10-12",
+    89.95
+   ],
+   [
+    "2026-10-15",
+    73.84
+   ],
+   [
+    "2026-10-22",
+    89.95
+   ],
+   [
+    "2026-10-29",
+    77.64
+   ],
+   [
+    "2026-10-31",
+    79.28
+   ],
+   [
+    "2026-11-08",
+    80.93
+   ],
+   [
+    "2026-11-14",
+    34.52
+   ],
+   [
+    "2026-11-15",
+    34.52
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46775670735187",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Nike Air Max Axis",
+  "price": 40.0,
+  "ref": 90.0,
+  "pct": 55.6,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/nike-air-max-axis-1?variant=46775670735187",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/df583600119a11ee8ed2873ba848fbe2.jpg?v=1687506738",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    40.0
+   ],
+   [
+    "2026-11-15",
+    40.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_celebre_it:52768301777243",
+  "source": "shopify_celebre_it",
+  "category": "altro",
+  "name": "L'Oréal Professionnel Keratin Alpha Sleek Shampoo Refill 1000ml",
+  "price": 21.99,
+  "ref": 49.0,
+  "pct": 55.1,
+  "level": "offerta",
+  "shop": "Celebre Store",
+  "url": "https://celebrestore.com/products/loreal-ricarica-shampoo-cheratina-lisciante?variant=52768301777243",
+  "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/loreal-ricarica-shampoo-cheratina-lisciante.jpg?v=1775576914",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    21.99
+   ],
+   [
+    "2026-11-15",
+    21.99
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:47406664384851",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Tuta Completa Jordan",
+  "price": 90.0,
+  "ref": 200.0,
+  "pct": 55.0,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/tuta-completa-jordan?variant=47406664384851",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8627376750931_hd.jpg?v=1782932270",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46680710119763",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Mid Chutney Taxi (Donna)",
+  "price": 90.0,
+  "ref": 200.0,
+  "pct": 55.0,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-mid-chutney-taxi-w?variant=46680710119763",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Chutney-Taxi-W.webp?v=1685715717",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46756860690771",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Jordan 1 Mid SE Christmas (Bambino) (EU 36)",
+  "price": 90.0,
+  "ref": 200.0,
+  "pct": 55.0,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/jordan-1-mid-se-christmas-gs?variant=46756860690771",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8b10de000ed711ee8f1aa7d2f5e5e594.png?v=1687202942",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:46676653277523",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Air Jordan 1 Mid Taxi (Bambino) (EU 36)",
+  "price": 90.0,
+  "ref": 200.0,
+  "pct": 55.0,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/air-jordan-1-mid-taxi-gs?variant=46676653277523",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Air-Jordan-1-Mid-Taxi-GS.webp?v=1685623421",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-11-14",
+    90.0
+   ],
+   [
+    "2026-11-15",
+    90.0
+   ]
+  ]
+ },
+ {
   "key": "amazon_it:B08LG6L1JW",
   "source": "amazon_it",
   "category": "altro",
@@ -4105,7 +4298,7 @@
   "url": "https://www.amazon.it/dp/B08LG6L1JW?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/31SQElnxAmL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-09-01",
@@ -4162,7 +4355,7 @@
   "url": "https://onestreet.it/products/shorts-nike-5?variant=47022177976659",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/0a0b3930480811eeae250b901a1db57b.jpg?v=1693490988",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-11-14",
@@ -4187,7 +4380,7 @@
   "url": "https://onestreet.it/products/shorts-nike-4?variant=47022093500755",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/95faa860480611eeae250b901a1db57b.jpg?v=1693490366",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-11-14",
@@ -4212,7 +4405,7 @@
   "url": "https://onestreet.it/products/adidas-gazelle-blue-cloud-white-gold-metallic?variant=50449979801939",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/adidas-Gazelle-Blue-Cloud-White-Gold-Metallic-Product.jpg?v=1740065756",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-11-14",
@@ -4237,7 +4430,7 @@
   "url": "https://onestreet.it/products/jordan-1-mid-university-blue-grey?variant=46676589543763",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-University-Blue-Grey-Product.webp?v=1685621848",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-11-14",
@@ -4262,7 +4455,7 @@
   "url": "https://www.amazon.it/dp/B003YAWBX2?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/41qpKbgZvFL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-08-25",
@@ -4323,6 +4516,51 @@
   ]
  },
  {
+  "key": "amazon_it:B0FCV29P7J",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "Jenny Sesal - ARREDATUTTO telo copritutto Gran Foulard (Matrimoniale, Giglio Tortora)",
+  "price": 18.9,
+  "ref": 40.55,
+  "pct": 53.4,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0FCV29P7J?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/41sNEYDG6yL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T16:24",
+  "history": [
+   [
+    "2026-08-19",
+    51.91
+   ],
+   [
+    "2026-08-29",
+    21.12
+   ],
+   [
+    "2026-09-11",
+    22.76
+   ],
+   [
+    "2026-09-26",
+    33.99
+   ],
+   [
+    "2026-10-11",
+    44.77
+   ],
+   [
+    "2026-10-17",
+    57.38
+   ],
+   [
+    "2026-11-15",
+    18.9
+   ]
+  ]
+ },
+ {
   "key": "shopify_onestreet_it:46680067932499",
   "source": "shopify_onestreet_it",
   "category": "altro",
@@ -4335,7 +4573,7 @@
   "url": "https://onestreet.it/products/nike-dunk-low-dark-driftwood-w?variant=46680067932499",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Nike-Dunk-Low-Dark-Driftwood-W-Product.webp?v=1685707648",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-11-14",
@@ -4360,7 +4598,7 @@
   "url": "https://onestreet.it/products/nike-dunk-low-yellow-strike-womens?variant=50481640210771",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/Nike-Dunk-Low-Strike-Yellow-W-Product.jpg?v=1740586105",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-11-14",
@@ -4385,7 +4623,7 @@
   "url": "https://onestreet.it/products/nike-dunk-low-white-paisley-w?variant=46678099919187",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Nike-Dunk-Low-White-Paisley-W.webp?v=1685637181",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-11-14",
@@ -4410,7 +4648,7 @@
   "url": "https://onestreet.it/products/nike-dunk-low-next-nature-phantom-w-special?variant=50450302009683",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Nike-Dunk-Low-Next-Nature-Light-Curry-W.webp?v=1685713505",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-11-14",
@@ -4435,7 +4673,7 @@
   "url": "https://onestreet.it/products/nike-dunk-low-fossil-rose-special?variant=50450018599251",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Nike-Dunk-Low-Fossil-Rose.webp?v=1685637152",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-11-14",
@@ -4460,7 +4698,7 @@
   "url": "https://onestreet.it/products/nike-dunk-low-emb-nba-75th-anniversary-chicago-gs-special?variant=50449398595923",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Nike-Dunk-Low-EMB-NBA-75th-Anniversary-Chicago-GS.jpg?v=1685634770",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-11-14",
@@ -4485,7 +4723,7 @@
   "url": "https://onestreet.it/products/nike-dunk-high-cashmere-lemon-twist-w-special?variant=50448934109523",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Nike-Dunk-High-Lemon-Twist-W-Product.jpg?v=1685619644",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-11-14",
@@ -4510,32 +4748,7 @@
   "url": "https://onestreet.it/products/nike-dunk-high-moon-fossil-w-special?variant=50448925753683",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Nike-Dunk-High-Moon-Fossil-W-Product.webp?v=1685619811",
   "currency": "EUR",
-  "at": "2026-11-15T15:30",
-  "history": [
-   [
-    "2026-11-14",
-    70.0
-   ],
-   [
-    "2026-11-15",
-    70.0
-   ]
-  ]
- },
- {
-  "key": "shopify_onestreet_it:50448900850003",
-  "source": "shopify_onestreet_it",
-  "category": "altro",
-  "name": "Nike Dunk Low Halloween (2022) (Bambino)",
-  "price": 70.0,
-  "ref": 150.0,
-  "pct": 53.3,
-  "level": "offerta",
-  "shop": "Onestreet",
-  "url": "https://onestreet.it/products/nike-dunk-low-halloween-2022-gs?variant=50448900850003",
-  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/Nike-Dunk-Low-Swoosh-Shadow-Iron-Grey-GS-Product.jpg?v=1740056293",
-  "currency": "EUR",
-  "at": "2026-11-15T15:30",
+  "at": "2026-11-15T16:24",
   "history": [
    [
     "2026-11-14",
