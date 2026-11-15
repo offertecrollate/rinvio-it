@@ -1,334 +1,294 @@
 [
  {
-  "key": "amazon_it:B083LMCCFT",
+  "key": "amazon_it:B016AC8E72",
   "source": "amazon_it",
   "category": "altro",
-  "name": "JOICO Moisture Recovery Moisturizing Conditioner – Balsamo idratante per capelli spessi, grossi, ricci, molto secchi o crespi – 1000 ml",
-  "price": 32.88,
-  "ref": 85.14,
-  "pct": 61.4,
-  "level": "errore",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B083LMCCFT?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/31EGqiiEN4L.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T17:29",
-  "history": [
-   [
-    "2026-11-04",
-    35.63
-   ],
-   [
-    "2026-11-05",
-    35.62
-   ],
-   [
-    "2026-11-07",
-    102.6
-   ],
-   [
-    "2026-11-11",
-    114.0
-   ],
-   [
-    "2026-11-15",
-    32.88
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B06XFVWCS7",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "Tepro copertura universale per carrello grill piccolo, nero (48,3 x 104,1 x 101,6 cm)",
-  "price": 23.28,
-  "ref": 52.78,
-  "pct": 55.9,
+  "name": "La cordeline CJN11A Tela di Iuta 125 gr/m² 1 m x 10 m",
+  "price": 31.05,
+  "ref": 68.83,
+  "pct": 54.9,
   "level": "offerta",
   "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B06XFVWCS7?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/31C7-e9kLLL.jpg",
+  "url": "https://www.amazon.it/dp/B016AC8E72?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/41af8DXc52L.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
-  "history": [
-   [
-    "2026-08-28",
-    17.44
-   ],
-   [
-    "2026-08-30",
-    16.69
-   ],
-   [
-    "2026-09-01",
-    16.69
-   ],
-   [
-    "2026-09-05",
-    21.14
-   ],
-   [
-    "2026-09-10",
-    38.2
-   ],
-   [
-    "2026-09-14",
-    34.0
-   ],
-   [
-    "2026-09-16",
-    38.2
-   ],
-   [
-    "2026-09-20",
-    62.51
-   ],
-   [
-    "2026-10-08",
-    64.12
-   ],
-   [
-    "2026-10-10",
-    42.96
-   ],
-   [
-    "2026-10-15",
-    39.52
-   ],
-   [
-    "2026-10-18",
-    37.15
-   ],
-   [
-    "2026-10-20",
-    70.83
-   ],
-   [
-    "2026-11-11",
-    43.91
-   ],
-   [
-    "2026-11-14",
-    70.83
-   ],
-   [
-    "2026-11-15",
-    23.28
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0FH5541H8",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "Superfit Supies Basket, Beige Blu 4000, 25 EU",
-  "price": 16.16,
-  "ref": 35.7,
-  "pct": 54.7,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0FH5541H8?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/21Rjs-C0nvL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T17:29",
-  "history": [
-   [
-    "2026-09-22",
-    14.54
-   ],
-   [
-    "2026-09-26",
-    32.47
-   ],
-   [
-    "2026-09-28",
-    43.01
-   ],
-   [
-    "2026-09-30",
-    41.38
-   ],
-   [
-    "2026-10-05",
-    36.74
-   ],
-   [
-    "2026-10-10",
-    38.87
-   ],
-   [
-    "2026-10-19",
-    37.12
-   ],
-   [
-    "2026-10-25",
-    37.68
-   ],
-   [
-    "2026-10-30",
-    38.85
-   ],
-   [
-    "2026-11-04",
-    34.72
-   ],
-   [
-    "2026-11-09",
-    34.75
-   ],
-   [
-    "2026-11-15",
-    16.16
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0FP1QRFY8",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "Skechers Uomo Bobs Squad 4 Slip-in ALLENATRICE, off White Knit, 45.5 EU",
-  "price": 56.99,
-  "ref": 117.39,
-  "pct": 51.5,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0FP1QRFY8?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/310+HwK72JL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T17:29",
-  "history": [
-   [
-    "2026-09-06",
-    74.99
-   ],
-   [
-    "2026-09-09",
-    70.99
-   ],
-   [
-    "2026-09-10",
-    79.75
-   ],
-   [
-    "2026-09-19",
-    151.99
-   ],
-   [
-    "2026-09-24",
-    68.99
-   ],
-   [
-    "2026-09-25",
-    70.99
-   ],
-   [
-    "2026-09-26",
-    68.99
-   ],
-   [
-    "2026-09-28",
-    146.99
-   ],
-   [
-    "2026-09-30",
-    145.99
-   ],
-   [
-    "2026-10-04",
-    144.99
-   ],
-   [
-    "2026-10-06",
-    130.49
-   ],
-   [
-    "2026-10-08",
-    131.39
-   ],
-   [
-    "2026-10-11",
-    129.59
-   ],
-   [
-    "2026-10-12",
-    143.99
-   ],
-   [
-    "2026-10-14",
-    142.99
-   ],
-   [
-    "2026-10-20",
-    146.99
-   ],
-   [
-    "2026-10-27",
-    147.99
-   ],
-   [
-    "2026-11-04",
-    141.99
-   ],
-   [
-    "2026-11-15",
-    56.99
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0GH9ZVKJ7",
-  "source": "amazon_it",
-  "category": "smartphone",
-  "name": "Kipling Seoul S Zaino Leggero Per Laptop e Tablet Zaino da Giorno Viaggio",
-  "price": 39.99,
-  "ref": 81.53,
-  "pct": 51.0,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0GH9ZVKJ7?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/31BtpcogdOL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-08-18",
-    76.79
+    35.07
    ],
    [
-    "2026-08-21",
-    71.92
+    "2026-08-19",
+    35.02
    ],
    [
-    "2026-08-24",
-    63.39
+    "2026-08-22",
+    34.48
+   ],
+   [
+    "2026-08-27",
+    34.68
    ],
    [
     "2026-09-03",
-    72.86
+    33.71
    ],
    [
-    "2026-09-07",
-    89.9
+    "2026-09-12",
+    55.39
    ],
    [
     "2026-09-22",
-    35.96
-   ],
-   [
-    "2026-09-25",
-    89.9
-   ],
-   [
-    "2026-10-08",
-    67.43
-   ],
-   [
-    "2026-10-14",
-    89.9
+    87.71
    ],
    [
     "2026-11-15",
-    39.99
+    31.05
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B0FDXB9S9B",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "Armani Exchange Maglietta da Donna Rhine Stone Logo Tone On Tone Simple, Nero, M",
+  "price": 17.4,
+  "ref": 37.12,
+  "pct": 53.1,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0FDXB9S9B?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/41TNm78PG8L.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T18:20",
+  "history": [
+   [
+    "2026-08-20",
+    26.79
+   ],
+   [
+    "2026-08-27",
+    26.8
+   ],
+   [
+    "2026-08-31",
+    42.99
+   ],
+   [
+    "2026-09-02",
+    26.79
+   ],
+   [
+    "2026-09-05",
+    24.11
+   ],
+   [
+    "2026-09-08",
+    21.7
+   ],
+   [
+    "2026-09-10",
+    19.53
+   ],
+   [
+    "2026-09-17",
+    42.99
+   ],
+   [
+    "2026-10-29",
+    41.99
+   ],
+   [
+    "2026-11-07",
+    47.99
+   ],
+   [
+    "2026-11-14",
+    17.4
+   ],
+   [
+    "2026-11-15",
+    17.4
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B0B973KHYK",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "LALILL Cappucci Abrasivi LUX Grafite 13 mm, Grana 60, 50 Pezzi",
+  "price": 15.93,
+  "ref": 32.24,
+  "pct": 50.6,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0B973KHYK?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/414QRzYBAOL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T18:20",
+  "history": [
+   [
+    "2026-08-21",
+    30.7
+   ],
+   [
+    "2026-08-27",
+    17.15
+   ],
+   [
+    "2026-08-31",
+    16.78
+   ],
+   [
+    "2026-09-04",
+    16.79
+   ],
+   [
+    "2026-09-05",
+    16.11
+   ],
+   [
+    "2026-09-10",
+    16.13
+   ],
+   [
+    "2026-09-13",
+    15.91
+   ],
+   [
+    "2026-09-14",
+    15.85
+   ],
+   [
+    "2026-09-15",
+    30.7
+   ],
+   [
+    "2026-10-15",
+    40.92
+   ],
+   [
+    "2026-11-15",
+    15.93
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B0H83F2LS3",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "MODO by Roncato LUMEN SET VALIGIE (Grande, Medio, Cabina) - Blu Notte",
+  "price": 225.73,
+  "ref": 455.12,
+  "pct": 50.4,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0H83F2LS3?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/41weIaL9eKL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T18:20",
+  "history": [
+   [
+    "2026-11-04",
+    455.97
+   ],
+   [
+    "2026-11-15",
+    225.73
+   ]
+  ]
+ },
+ {
+  "key": "amazon_it:B0D5MJW5N2",
+  "source": "amazon_it",
+  "category": "moda",
+  "name": "Hummel Scarpe da Ginnastica Unisex Perfette SP, Nero, 44 EU, Nero, 44 EU",
+  "price": 19.98,
+  "ref": 40.23,
+  "pct": 50.3,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0D5MJW5N2?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/21wa2Q7+IkL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T18:20",
+  "history": [
+   [
+    "2026-08-17",
+    32.7
+   ],
+   [
+    "2026-09-08",
+    47.14
+   ],
+   [
+    "2026-09-09",
+    35.83
+   ],
+   [
+    "2026-09-12",
+    36.66
+   ],
+   [
+    "2026-09-16",
+    35.59
+   ],
+   [
+    "2026-09-21",
+    53.44
+   ],
+   [
+    "2026-09-26",
+    33.6
+   ],
+   [
+    "2026-09-28",
+    57.47
+   ],
+   [
+    "2026-10-03",
+    34.31
+   ],
+   [
+    "2026-10-06",
+    45.36
+   ],
+   [
+    "2026-10-11",
+    35.83
+   ],
+   [
+    "2026-10-15",
+    34.64
+   ],
+   [
+    "2026-10-19",
+    35.26
+   ],
+   [
+    "2026-10-21",
+    35.76
+   ],
+   [
+    "2026-10-23",
+    45.98
+   ],
+   [
+    "2026-10-26",
+    34.55
+   ],
+   [
+    "2026-10-31",
+    34.44
+   ],
+   [
+    "2026-11-08",
+    54.06
+   ],
+   [
+    "2026-11-15",
+    19.98
    ]
   ]
  },
@@ -345,7 +305,7 @@
   "url": "https://celebrestore.com/products/kerastase-tazza-mug-riutilizzabile?variant=53216115130715",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/tazza-kerastase-mug-viola.jpg?v=1780313511",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -370,7 +330,7 @@
   "url": "https://onestreet.it/products/ciabatte-fila-morro-bay-slipper-wmn?variant=48095618957651",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8874153181523_hd.jpg?v=1782932524",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -395,7 +355,7 @@
   "url": "https://celebrestore.com/products/k18-damage-shield-shampoo-conditioner?variant=50088295006555",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/k18-shampoo-e-balsamo.jpg?v=1775569021",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -413,14 +373,14 @@
   "category": "altro",
   "name": "Black & Decker BDHT0-66451 Set 12 Giraviti",
   "price": 19.9,
-  "ref": 94.39,
+  "ref": 94.38,
   "pct": 78.9,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B00J25ROSA?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/41MoM2fdGqL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-08-20",
@@ -465,7 +425,7 @@
   "url": "https://celebrestore.com/products/foulard-kerastase-accessorio-capelli?variant=53722755268955",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/foulard-kerastase-accessorio_2.png?v=1785934335",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -490,7 +450,7 @@
   "url": "https://celebrestore.com/products/portachiavi-kerastase-accessorio-regalo?variant=52682324902235",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/kerastase-portachiavi-accessorio-regalo.jpg?v=1775576012",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -515,7 +475,7 @@
   "url": "https://celebrestore.com/products/kerastase-chronologiste-olio-profumato-capelli?variant=54428884074843",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/KerastaseGlassHaircareBottle-9.png?v=1792507027",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -540,7 +500,7 @@
   "url": "https://onestreet.it/products/new-balance-550-white-blue-groove?variant=46677923070291",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/New-Balance-550-White-Blue-Groove-Product.webp?v=1685635532",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -565,7 +525,7 @@
   "url": "https://onestreet.it/products/new-balance-550-syracuse?variant=46677969928531",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/New-Balance-550-Syracuse-Product.webp?v=1685635942",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -590,7 +550,7 @@
   "url": "https://onestreet.it/products/new-balance-550-marquette?variant=46677926642003",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/New-Balance-550-Marquette-Product.webp?v=1685635557",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -615,7 +575,7 @@
   "url": "https://onestreet.it/products/new-balance-550-burnt-orange?variant=46677920743763",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/New-Balance-550-Burnt-Orange.webp?v=1685635517",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -640,7 +600,7 @@
   "url": "https://celebrestore.com/products/redken-pochette-borsa-nera?variant=53355753505115",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/redken-pochette-borsa-bag-nera.jpg?v=1781101787",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -665,7 +625,7 @@
   "url": "https://onestreet.it/products/nike-air-force-1-rebel-xx-praline-womens?variant=46775669195091",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/15c50a10165511ee947ec78af6fd0272.png?v=1688026520",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -690,7 +650,7 @@
   "url": "https://onestreet.it/products/new-balance-550-sea-salt-yellow-gs?variant=46734499021139",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/a31fa1a00c4511eea65b2b5c36e6ed62.png?v=1686920374",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -715,7 +675,7 @@
   "url": "https://onestreet.it/products/new-balance-552?variant=47539882426707",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8435773309267_hd.jpg?v=1782931959",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -740,7 +700,7 @@
   "url": "https://onestreet.it/products/new-balance-551?variant=46734493417811",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/7ea549000c3711ee9486c36cd9effcef.png?v=1686914308",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -758,14 +718,14 @@
   "category": "altro",
   "name": "Colombo | Alpina 30 Stendibiancheria Verticale 30 m di Stenditura",
   "price": 32.1,
-  "ref": 108.74,
-  "pct": 70.5,
+  "ref": 108.55,
+  "pct": 70.4,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B01DA3M4CK?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/41rkUYKWF4L.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-10-31",
@@ -794,7 +754,7 @@
   "url": "https://onestreet.it/products/new-balance-550-white-classic-green?variant=50482203689299",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/fe849e401bec11eea3e461067d98a01d.jpg?v=1688641520",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -819,7 +779,7 @@
   "url": "https://onestreet.it/products/adidas-campus-00s-8?variant=47446894608723",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8600355504467_hd.jpg?v=1782932249",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -844,7 +804,7 @@
   "url": "https://onestreet.it/products/adidas-campus-00s-dark-green-cloud-white?variant=47229580902739",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8573743006035_hd.jpg?v=1782932228",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -869,7 +829,7 @@
   "url": "https://onestreet.it/products/adidas-campus-00s-green-cloud-white-womens-1?variant=47197160014163",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/da5ec0106a7311eeb99ca5f36552eb50.jpg?v=1697275634",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -894,7 +854,7 @@
   "url": "https://onestreet.it/products/adidas-campus-00s-3?variant=47294146576723",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/e4a0f34050b511eeb74781295ace540a.jpg?v=1694445267",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -919,7 +879,7 @@
   "url": "https://onestreet.it/products/adidas-campus-00s-collegiate-green-1?variant=46948350722387",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/a4b59f70377d11eebc905ba56af19055.jpg?v=1691672330",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -944,7 +904,7 @@
   "url": "https://onestreet.it/products/adidas-campus-00s-almost-yellow-core-black?variant=46757333631315",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/d892a9900ed411ee9f3a5f1a1555e096.png?v=1687201784",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -969,7 +929,7 @@
   "url": "https://onestreet.it/products/adidas-campus-2-w?variant=46838884630867",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8471201710419_hd.jpg?v=1782932025",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -994,7 +954,7 @@
   "url": "https://onestreet.it/products/adidas-campus-00s-spice-yellow?variant=46676607140179",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/adidas-Campus-00s-Spice-Yellow-Product.webp?v=1686844824",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1019,7 +979,7 @@
   "url": "https://onestreet.it/products/adidas-campus-00s-zalando-exclusive-glow-in-the-dark-beige?variant=46757347852627",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/3139f9900ed511ee8f1aa7d2f5e5e594.png?v=1687201933",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1044,7 +1004,7 @@
   "url": "https://onestreet.it/products/adidas-campus-00s-better-scarlet-cloud-white?variant=46676586922323",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/adidas-Campus-00s-Better-Scarlet-Cloud-White-Product.webp?v=1686844898",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1069,7 +1029,7 @@
   "url": "https://onestreet.it/products/adidas-campus-00s-pantone-cloud-white?variant=46704481599827",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/a379b12006b611eeb27897ff3f75a9f8.png?v=1686309201",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1094,7 +1054,7 @@
   "url": "https://onestreet.it/products/adidas-campus-00s-amber-tint?variant=50449423106387",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/7ae367e0060911eebb3ea15406193cf1.png?v=1686234831",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1119,7 +1079,7 @@
   "url": "https://onestreet.it/products/adidas-campus-00s-semi-screaming-green?variant=46704432349523",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/1cbfa110061311ee9a9083fcb82e1fba.png?v=1686238969",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1144,7 +1104,7 @@
   "url": "https://onestreet.it/products/jordan-1-mid-reverse-chicago-w-special-1?variant=50449454596435",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Reverse-Chicago-W-Product.webp?v=1685622910",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1169,7 +1129,7 @@
   "url": "https://onestreet.it/products/shirt-adidas-x-fc-bayern-monaco?variant=50987012522323",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/image-Photoroom_1.png?v=1747319350",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1194,7 +1154,7 @@
   "url": "https://onestreet.it/products/nike-ciabatta-wmns-benassi-jdi?variant=48083797836115",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8869773017427_hd.jpg?v=1782932477",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1219,7 +1179,7 @@
   "url": "https://onestreet.it/products/nike-ciabatta-benassi-jdi?variant=48083785646419",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8869765284179_hd.jpg?v=1782932472",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1244,7 +1204,7 @@
   "url": "https://onestreet.it/products/converse-ctas-hi-4?variant=46861310722387",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/ed1895b0258a11eebe26df516ac40c0a.jpg?v=1689698912",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1269,7 +1229,7 @@
   "url": "https://onestreet.it/products/converse-ctas-ox?variant=46861247316307",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8476036858195_hd.jpg?v=1782932113",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1294,7 +1254,7 @@
   "url": "https://onestreet.it/products/converse-ctas-move-hi-2?variant=46861221462355",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8476032729427_hd.jpg?v=1782932103",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1319,7 +1279,7 @@
   "url": "https://onestreet.it/products/converse-ctas-move-hi-1?variant=46861219987795",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8476032303443_hd.jpg?v=1782932098",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1344,7 +1304,7 @@
   "url": "https://onestreet.it/products/converse-ctas-lugged-winter-2-0-hi-2?variant=46861054640467",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8475944026451_hd.jpg?v=1782932093",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1369,7 +1329,7 @@
   "url": "https://onestreet.it/products/converse-ctas-hi-3?variant=46860965609811",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/c0c3a110257d11eebe26df516ac40c0a.jpg?v=1689693254",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1394,7 +1354,7 @@
   "url": "https://onestreet.it/products/converse-ctas-lift-hi-2?variant=46860916326739",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/ba19a7c0257c11eebe26df516ac40c0a.webp?v=1689692814",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1419,7 +1379,7 @@
   "url": "https://onestreet.it/products/converse-ctas-lift-ox-2?variant=46860898500947",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8475832779091_hd.jpg?v=1782932090",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1444,7 +1404,7 @@
   "url": "https://onestreet.it/products/converse-ctas-lugged-winter-2-0-hi-1?variant=46860847776083",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/efbd9140257a11eebe26df516ac40c0a.jpg?v=1689692045",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1469,7 +1429,7 @@
   "url": "https://onestreet.it/products/converse-ctas-lift-hi-1?variant=46860794790227",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/7575db40257a11eebe26df516ac40c0a.jpg?v=1689691840",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1494,7 +1454,7 @@
   "url": "https://onestreet.it/products/converse-ctas-lift-ox-1?variant=46860781683027",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/34d07aa0257a11eebe26df516ac40c0a.jpg?v=1689691731",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1519,7 +1479,7 @@
   "url": "https://onestreet.it/products/converse-net-star-classic-ox?variant=46860776636755",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/e2c73280257911eebe26df516ac40c0a.jpg?v=1689691594",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1544,7 +1504,7 @@
   "url": "https://onestreet.it/products/converse-ctas-hi?variant=46860774015315",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/a5246380257911eebe26df516ac40c0a.jpg?v=1689691490",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1569,7 +1529,7 @@
   "url": "https://onestreet.it/products/converse-ctas-hiker-hi?variant=46860769460563",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/5d040880257911eebe26df516ac40c0a.jpg?v=1689691369",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1594,7 +1554,7 @@
   "url": "https://onestreet.it/products/converse-ctas-lugged-winter-hi?variant=46860764971347",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8475754398035_hd.jpg?v=1782932084",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1619,7 +1579,7 @@
   "url": "https://onestreet.it/products/converse-ctas-lift-ox?variant=46860758745427",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/968bed80257811eebe26df516ac40c0a.webp?v=1689691036",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1644,7 +1604,7 @@
   "url": "https://onestreet.it/products/converse-ctas-move-ox?variant=46860739477843",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/c22a6130257611eebe26df516ac40c0a.jpg?v=1689690250",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1669,7 +1629,7 @@
   "url": "https://onestreet.it/products/converse-ctas-lift-hi?variant=46860737773907",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8475746664787_hd.jpg?v=1782932079",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1694,7 +1654,7 @@
   "url": "https://celebrestore.com/products/redken-shampoo-acidic-grow-full-system-piccolo?variant=54428976546139",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleproductphoto-6.png?v=1792507427",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1719,7 +1679,7 @@
   "url": "https://celebrestore.com/products/assicurazione-rimborso-immediato-spedizione?variant=50724460855643",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/assicurazione-pacchi-spedizione.jpg?v=1775571995",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1744,7 +1704,7 @@
   "url": "https://celebrestore.com/products/medavita-huile-detoile-maschera-capelli-spenti?variant=49793797947739",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Huiled_etoileMaschera.jpg?v=1775568020",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1769,7 +1729,7 @@
   "url": "https://celebrestore.com/products/medavita-shampoo-anticaduta-uomo?variant=49784054219099",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Progettosenzatitolo_54.jpg?v=1775567179",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1794,7 +1754,7 @@
   "url": "https://celebrestore.com/products/redken-all-soft-balsamo-capelli-secchi?variant=54429322871131",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/KerastaseGlassBottleStudioShot-2.png?v=1792508786",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1819,7 +1779,7 @@
   "url": "https://celebrestore.com/products/redken-acidic-color-gloss-balsamo?variant=54429198221659",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleonwhite-3.png?v=1792508444",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1844,7 +1804,7 @@
   "url": "https://celebrestore.com/products/redken-acidic-color-gloss-termoprotettore?variant=54429124788571",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleonwhite-4.png?v=1792508268",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1869,7 +1829,7 @@
   "url": "https://celebrestore.com/products/redken-acidic-grow-full-system-conditioner?variant=54428996403547",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleonwhite-5.png?v=1792507516",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1894,7 +1854,7 @@
   "url": "https://celebrestore.com/products/redken-one-united-30ml?variant=54428921921883",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Kerastaseglassbottleproductshot-8_6bce0692-6781-4ec4-a32a-cc40321a6c5b.png?v=1792507242",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1919,7 +1879,7 @@
   "url": "https://celebrestore.com/products/redken-acidic-grow-siero-capelli-fini?variant=54428841050459",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/KerastaseGlassBottleonWhite-7.png?v=1792507072",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1944,7 +1904,7 @@
   "url": "https://celebrestore.com/products/loreal-shampoo-capelli-grassi-travel-size?variant=53866872275291",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/loreal-shampoo-capelli-grassi-professionale_1.jpg?v=1775570109",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -1962,14 +1922,14 @@
   "category": "altro",
   "name": "Legero 2000503 Donna Stivali da neve, Black 0000, 37 EU",
   "price": 43.97,
-  "ref": 127.39,
+  "ref": 127.35,
   "pct": 65.5,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B0846H2LJC?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/218ntvrHSeL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-09-17",
@@ -2006,7 +1966,7 @@
   "url": "https://onestreet.it/products/new-balance-9060-tea-tree?variant=47677820076371",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/c85615a0c9c111ee91752b4756c8104c.jpg?v=1707754466",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2031,7 +1991,7 @@
   "url": "https://onestreet.it/products/jordan-1-mid-linen?variant=46680651432275",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Linen-Product.webp?v=1685714720",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2056,7 +2016,7 @@
   "url": "https://onestreet.it/products/shorts-nike-7?variant=47022406795603",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/8e05f7e0480b11eeae250b901a1db57b.jpg?v=1693492499",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2081,7 +2041,7 @@
   "url": "https://onestreet.it/products/shorts-cargo-nike?variant=47022134493523",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/446ba3e0480711eeae250b901a1db57b.jpg?v=1693490660",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2106,7 +2066,7 @@
   "url": "https://onestreet.it/products/shorts-nike-3?variant=47022023016787",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/6462ffb0480511ee8d81d7cf09ace977.jpg?v=1693991304",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2131,7 +2091,7 @@
   "url": "https://onestreet.it/products/shorts-nike-2?variant=47021896204627",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/8fca84e0480311ee8d81d7cf09ace977.jpg?v=1693489064",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2156,7 +2116,7 @@
   "url": "https://onestreet.it/products/shorts-nike-1?variant=47020947505491",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/aa009ee047ee11ee919d8b776f766573.jpg?v=1693480091",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2181,7 +2141,7 @@
   "url": "https://onestreet.it/products/adidas-campus-00s-energy-ink-kids?variant=50449442308435",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/adidas-Campus-00s-Energy-Ink-Kids-Product.jpg?v=1740062154",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2206,7 +2166,7 @@
   "url": "https://celebrestore.com/products/medavita-idol-lacca-per-styling-capelli-forte?variant=49900023677275",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Medavita_Idol_Texture_Satin_Lacca_Gas_Forte_Ultra-Dry_75ml.jpg?v=1775568249",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2231,7 +2191,7 @@
   "url": "https://celebrestore.com/products/medavita-huile-d-toile-shampoo-illuminante?variant=49812543865179",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Medavita_Huile_detoile_Shampoo_di_Oli_Inebriante_55ml.jpg?v=1775568114",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2256,7 +2216,7 @@
   "url": "https://celebrestore.com/products/medavita-blondie-shampoo-capelli-biondi-decolorati?variant=49794032959835",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/medavitablondieshampoo_4.jpg?v=1775567634",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2281,7 +2241,7 @@
   "url": "https://celebrestore.com/products/medavita-prodige-shampoo-per-capelli-danneggiati?variant=49793893073243",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/medavita-prodige-shampoo_1.jpg?v=1775568692",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2306,7 +2266,7 @@
   "url": "https://celebrestore.com/products/medavita-shampoo-per-capelli-ricci-e-mossi?variant=49793613201755",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/Medavita_Curladdict_shampoo.jpg?v=1775567822",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2331,7 +2291,7 @@
   "url": "https://onestreet.it/products/nike-air-force-1-low-07-multi-color-gradient-womens?variant=46756886413651",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/eeda1ae00ed811ee8f1aa7d2f5e5e594.png?v=1687203541",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2349,14 +2309,14 @@
   "category": "altro",
   "name": "Superfit CRYSTAL warm gefütterte Gore-Tex - Stivali da neve, Hellgrau 2510,",
   "price": 23.08,
-  "ref": 62.46,
+  "ref": 62.44,
   "pct": 63.0,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B0CSDRXJGK?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/31Rt2JAYJZL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-09-10",
@@ -2425,7 +2385,7 @@
   "url": "https://celebrestore.com/products/medavita-choice-glowing-shampoo?variant=51042837725531",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/medavita-choice-shampoo-capelli.jpg?v=1775572751",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2450,7 +2410,7 @@
   "url": "https://celebrestore.com/products/redken-balsamo-illuminante-capelli-biondi?variant=52867310027099",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/redken-balsamo-illuminante-capelli-biondi.jpg?v=1777044682",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2468,14 +2428,14 @@
   "category": "moda",
   "name": "LEE - Jeans Uomo - Vestibilità Slim Dritta - Extreme Motion - Bolton",
   "price": 26.63,
-  "ref": 68.7,
+  "ref": 68.68,
   "pct": 61.2,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B0CRFDHLX3?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/21KXdw3-FJL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-08-30",
@@ -2552,7 +2512,7 @@
   "url": "https://celebrestore.com/products/pennello-parrucchiere-kerastase-trattamento?variant=54272072712539",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/pennello-parrucchiere-colore-kerastase_1.png?v=1791459197",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2577,7 +2537,7 @@
   "url": "https://celebrestore.com/products/loreal-elastico-capelli?variant=53359461859675",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/loreal-elastico-capelli.jpg?v=1781171320",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2602,7 +2562,7 @@
   "url": "https://celebrestore.com/products/medavita-blondie-maschera-capelli-biondi?variant=50373348262235",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/medavita-maschera-capelli-biondi-50ml.jpg?v=1775569407",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2627,7 +2587,7 @@
   "url": "https://www.awin1.com/pclick.php?p=24634925475&a=3152592&m=15530",
   "image": "https://static2-ecemea.acer.com/media/catalog/product/_/_/___c__c_o_commercial_we_monitor_1_sv.wldam.003.png",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-12",
@@ -2660,7 +2620,7 @@
   "url": "https://onestreet.it/products/shorts-ciclista-nike?variant=47051420696915",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/56b03f304e2d11ee8d0e8786ffc1de3d.jpg?v=1694166714",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2685,7 +2645,7 @@
   "url": "https://onestreet.it/products/shorts-gonna-nike-2?variant=48013858079059",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/14d914c0fd8611ee9db36d104132a1ce_9bfd894d-d98a-4885-82b1-1c42df95c593.jpg?v=1713446288",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2710,7 +2670,7 @@
   "url": "https://celebrestore.com/products/tappetino-termoresistente-loreal-piastra-asciugacapelli?variant=53355596120411",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/tappetino-termoresistente-loreal-phon-piastra.jpg?v=1781099784",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2735,7 +2695,7 @@
   "url": "https://celebrestore.com/products/massaggiatore-cute-spazzola-loreal?variant=50992925901147",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/massaggiatore-cute-spazzola-loreal.jpg?v=1775572690",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2760,7 +2720,7 @@
   "url": "https://www.amazon.it/dp/B0D26RVKTZ?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/21WQyeMH8rL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-08-20",
@@ -2817,7 +2777,7 @@
   "url": "https://onestreet.it/products/jordan-1-low-bred-toe?variant=46680781750611",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/5eb07b00038211eebd80c118e9c29ac4.png?v=1685957392",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2842,7 +2802,7 @@
   "url": "https://onestreet.it/products/jordan-1-mid-paris-white?variant=46680926552403",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Paris-White-Product.webp?v=1685717331",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2867,7 +2827,7 @@
   "url": "https://onestreet.it/products/jordan-1-low-cardinal-red?variant=46680884674899",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Low-Cardinal-Red-Product.webp?v=1685717042",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2892,7 +2852,7 @@
   "url": "https://onestreet.it/products/jordan-1-mid-reverse-chicago-w?variant=46676621295955",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Reverse-Chicago-W-Product.webp?v=1685622910",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2917,7 +2877,7 @@
   "url": "https://onestreet.it/products/jordan-1-mid-gym-red-panda-w?variant=46595627581779",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Gym-Red-Panda-W-Product.webp?v=1683716584",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2942,7 +2902,7 @@
   "url": "https://onestreet.it/products/jordan-1-mid-grey-green?variant=46487478108499",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Grey-Green.jpg?v=1680559189",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2967,7 +2927,7 @@
   "url": "https://onestreet.it/products/jordan-1-retro-high-og-atmosphere-w?variant=46676627226963",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Retro-High-OG-Atmosphere-W-Product.webp?v=1685623053",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -2976,83 +2936,6 @@
    [
     "2026-11-15",
     95.0
-   ]
-  ]
- },
- {
-  "key": "amazon_it:B0FVF87MBN",
-  "source": "amazon_it",
-  "category": "altro",
-  "name": "adidas Donna Essentials Rain Parka Coat, Black, L",
-  "price": 30.04,
-  "ref": 72.28,
-  "pct": 58.4,
-  "level": "offerta",
-  "shop": "Amazon.it",
-  "url": "https://www.amazon.it/dp/B0FVF87MBN?tag=offertecrolla-21",
-  "image": "https://m.media-amazon.com/images/I/31Ltrz8xKnL.jpg",
-  "currency": "EUR",
-  "at": "2026-11-15T17:29",
-  "history": [
-   [
-    "2026-09-06",
-    100.0
-   ],
-   [
-    "2026-09-23",
-    84.13
-   ],
-   [
-    "2026-10-02",
-    77.59
-   ],
-   [
-    "2026-10-11",
-    65.11
-   ],
-   [
-    "2026-10-17",
-    52.74
-   ],
-   [
-    "2026-10-23",
-    42.72
-   ],
-   [
-    "2026-10-28",
-    50.88
-   ],
-   [
-    "2026-11-05",
-    37.09
-   ],
-   [
-    "2026-11-08",
-    33.38
-   ],
-   [
-    "2026-11-09",
-    95.44
-   ],
-   [
-    "2026-11-10",
-    96.16
-   ],
-   [
-    "2026-11-11",
-    30.04
-   ],
-   [
-    "2026-11-12",
-    96.16
-   ],
-   [
-    "2026-11-14",
-    30.04
-   ],
-   [
-    "2026-11-15",
-    30.04
    ]
   ]
  },
@@ -3069,7 +2952,7 @@
   "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi?variant=46786319483219",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8456195834195_hd.jpg?v=1782932015",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3094,7 +2977,7 @@
   "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-ivory?variant=46786302607699",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8456189083987_hd.jpg?v=1782932009",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3119,7 +3002,7 @@
   "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-parchment?variant=46786298970451",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8456188100947_hd.jpg?v=1782932004",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3144,7 +3027,7 @@
   "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-desert-cargo?variant=46785965588819",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8456034845011_hd.jpg?v=1782931999",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3169,7 +3052,7 @@
   "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-plus-dark-raisin-egret-black?variant=46785963458899",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/d5159750165411ee947ec78af6fd0272.png?v=1688026412",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3194,7 +3077,7 @@
   "url": "https://onestreet.it/products/converse-chuck-taylor-all-star-70-hi-plus-canvas-black-white?variant=46785960739155",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/bcd7d770165411ee947ec78af6fd0272.png?v=1688026371",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3219,7 +3102,7 @@
   "url": "https://onestreet.it/products/jordan-5-low-girls-that-hoop-w?variant=46676657111379",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-5-Low-Arctic-Pink-W-Product.webp?v=1685623499",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3237,14 +3120,14 @@
   "category": "altro",
   "name": "Aigle Benyl Xl. Stivali da Caccia da Uomo, Verde (Kaki), 43 EU",
   "price": 52.46,
-  "ref": 125.49,
+  "ref": 125.47,
   "pct": 58.2,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B003P8QEPE?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/31ZMECNp12L.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-08-18",
@@ -3278,14 +3161,14 @@
   "category": "moda",
   "name": "JJIALEX JJORIGINAL SBD 304 NOOS Jeans Baggy Fit Blu 34/34",
   "price": 18.22,
-  "ref": 43.34,
+  "ref": 43.33,
   "pct": 58.0,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B0BFJMWJBR?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/31WtQE7KSJL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-08-28",
@@ -3347,14 +3230,14 @@
   "category": "altro",
   "name": "Nobby, Guinzaglio 2 m – Classic preno",
   "price": 17.6,
-  "ref": 41.59,
+  "ref": 41.58,
   "pct": 57.7,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B01H1FAJYS?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/31FddN9BX2L.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-08-21",
@@ -3391,7 +3274,7 @@
   "url": "https://onestreet.it/products/jordan-1-retro-high-satin-snake-chicago-w?variant=46676653736275",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Retro-High-Satin-Snake-Chicago-W-Product.jpg?v=1685977496",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3416,7 +3299,7 @@
   "url": "https://celebrestore.com/products/beauty-night-kit-kerastase-accessori-notte?variant=53355659952475",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/beauty-kit-night-kerastase-accessori.jpg?v=1781100724",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3441,7 +3324,7 @@
   "url": "https://onestreet.it/products/pantacostume-nike?variant=47020837405011",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8516485054803_hd.jpg?v=1782932118",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3466,7 +3349,7 @@
   "url": "https://onestreet.it/products/giubbino-the-north-face-women-s-nuptse-short-fuchsia-pink?variant=47312310993235",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/29d77450820411ee9006eb6bb1bafffa.jpg?v=1699866492",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3491,7 +3374,7 @@
   "url": "https://onestreet.it/products/jordan-1-mid-se-ice-blue-womens?variant=46756859183443",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/a2e04bb00ed711ee8f1aa7d2f5e5e594.png?v=1687202983",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3516,7 +3399,7 @@
   "url": "https://onestreet.it/products/jordan-1-mid-se-seahawks-womens?variant=46756855218515",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/f8af00400ed711ee8f1aa7d2f5e5e594.png?v=1687203126",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3541,7 +3424,7 @@
   "url": "https://onestreet.it/products/jordan-1-mid-syracuse-w?variant=46680919736659",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Syracuse-W-Product.jpg?v=1685717279",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3566,7 +3449,7 @@
   "url": "https://onestreet.it/products/nike-dunk-low-sp-kentucky-2020?variant=46680116625747",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/c9a38960061211ee9a9083fcb82e1fba_d8d9250a-c60f-4b2e-9426-d3256e759f61.png?v=1686238842",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3584,14 +3467,14 @@
   "category": "altro",
   "name": "Superfit Stivali da neve Flavia con calda imbottitura Gore-tex, Rosa Argento 5530, 31 EU",
   "price": 33.79,
-  "ref": 78.65,
+  "ref": 78.62,
   "pct": 57.0,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B0DT4S6MMW?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/31b27msLz0L.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-08-19",
@@ -3668,7 +3551,7 @@
   "url": "https://celebrestore.com/products/kerastase-blond-absolu-cicaflash-conditioner-75ml-copia?variant=54631413383515",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/kerastase-balsamo-capelli-biondi-viola_1.png?v=1788540194",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3693,7 +3576,7 @@
   "url": "https://onestreet.it/products/nike-air-max-portal-black-anthracite-womens-copia?variant=50668430950739",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/portal.jpg?v=1743158041",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3718,7 +3601,7 @@
   "url": "https://celebrestore.com/products/loreal-shampoo-capelli-ricci-curl-expression?variant=50401856225627",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/loreal-capelli-ricci-shampoo-curlexpression.jpg?v=1775571990",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3743,7 +3626,7 @@
   "url": "https://onestreet.it/products/jordan-1-low-mulberry-womens?variant=50448766206291",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/Air-Jordan-1-Low-Mulberry-W-Product.jpg?v=1740054274",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3768,7 +3651,7 @@
   "url": "https://onestreet.it/products/adidas-forum-84-low-adv?variant=47549064249683",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/7b179280b08711ee90214d84ab2045c2.jpg?v=1704980646",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3786,14 +3669,14 @@
   "category": "moda",
   "name": "NAPAPIJRI Ambers Jacket Petrolio",
   "price": 45.29,
-  "ref": 103.52,
+  "ref": 103.49,
   "pct": 56.2,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B0F7S278MX?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/31Fh3gAyfJL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-08-28",
@@ -3854,19 +3737,100 @@
   ]
  },
  {
+  "key": "amazon_it:B06XFVWCS7",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "Tepro copertura universale per carrello grill piccolo, nero (48,3 x 104,1 x 101,6 cm)",
+  "price": 23.28,
+  "ref": 52.78,
+  "pct": 55.9,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B06XFVWCS7?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/31C7-e9kLLL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T18:20",
+  "history": [
+   [
+    "2026-08-28",
+    17.44
+   ],
+   [
+    "2026-08-30",
+    16.69
+   ],
+   [
+    "2026-09-01",
+    16.69
+   ],
+   [
+    "2026-09-05",
+    21.14
+   ],
+   [
+    "2026-09-10",
+    38.2
+   ],
+   [
+    "2026-09-14",
+    34.0
+   ],
+   [
+    "2026-09-16",
+    38.2
+   ],
+   [
+    "2026-09-20",
+    62.51
+   ],
+   [
+    "2026-10-08",
+    64.12
+   ],
+   [
+    "2026-10-10",
+    42.96
+   ],
+   [
+    "2026-10-15",
+    39.52
+   ],
+   [
+    "2026-10-18",
+    37.15
+   ],
+   [
+    "2026-10-20",
+    70.83
+   ],
+   [
+    "2026-11-11",
+    43.91
+   ],
+   [
+    "2026-11-14",
+    70.83
+   ],
+   [
+    "2026-11-15",
+    23.28
+   ]
+  ]
+ },
+ {
   "key": "amazon_it:B0B4T3MCXN",
   "source": "amazon_it",
   "category": "altro",
   "name": "Legero Sneaker Tanaro da Donna, Indacox Blu 8600, 44 EU",
   "price": 34.52,
-  "ref": 78.27,
+  "ref": 78.25,
   "pct": 55.9,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B0B4T3MCXN?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/213sy1YZLXL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-08-20",
@@ -3951,7 +3915,7 @@
   "url": "https://onestreet.it/products/nike-air-max-axis-1?variant=46775670735187",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/df583600119a11ee8ed2873ba848fbe2.jpg?v=1687506738",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -3976,7 +3940,7 @@
   "url": "https://celebrestore.com/products/loreal-ricarica-shampoo-cheratina-lisciante?variant=52768301777243",
   "image": "https://cdn.shopify.com/s/files/1/0790/1003/8107/files/loreal-ricarica-shampoo-cheratina-lisciante.jpg?v=1775576914",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4001,7 +3965,7 @@
   "url": "https://onestreet.it/products/tuta-completa-jordan?variant=47406664384851",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8627376750931_hd.jpg?v=1782932270",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4026,7 +3990,7 @@
   "url": "https://onestreet.it/products/jordan-1-mid-chutney-taxi-w?variant=46680710119763",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-Chutney-Taxi-W.webp?v=1685715717",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4051,7 +4015,7 @@
   "url": "https://onestreet.it/products/jordan-1-mid-se-christmas-gs?variant=46756860690771",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/8b10de000ed711ee8f1aa7d2f5e5e594.png?v=1687202942",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4076,7 +4040,7 @@
   "url": "https://onestreet.it/products/air-jordan-1-mid-taxi-gs?variant=46676653277523",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Air-Jordan-1-Mid-Taxi-GS.webp?v=1685623421",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4094,14 +4058,14 @@
   "category": "altro",
   "name": "Relaxd Graphic Crew Desert BW Navy Blaze",
   "price": 31.93,
-  "ref": 70.82,
+  "ref": 70.79,
   "pct": 54.9,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B0G35LY7KK?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/310D8ZqC6fL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-10-02",
@@ -4118,19 +4082,84 @@
   ]
  },
  {
+  "key": "amazon_it:B0FH5541H8",
+  "source": "amazon_it",
+  "category": "altro",
+  "name": "Superfit Supies Basket, Beige Blu 4000, 25 EU",
+  "price": 16.16,
+  "ref": 35.69,
+  "pct": 54.7,
+  "level": "offerta",
+  "shop": "Amazon.it",
+  "url": "https://www.amazon.it/dp/B0FH5541H8?tag=offertecrolla-21",
+  "image": "https://m.media-amazon.com/images/I/21Rjs-C0nvL.jpg",
+  "currency": "EUR",
+  "at": "2026-11-15T18:20",
+  "history": [
+   [
+    "2026-09-22",
+    14.54
+   ],
+   [
+    "2026-09-26",
+    32.47
+   ],
+   [
+    "2026-09-28",
+    43.01
+   ],
+   [
+    "2026-09-30",
+    41.38
+   ],
+   [
+    "2026-10-05",
+    36.74
+   ],
+   [
+    "2026-10-10",
+    38.87
+   ],
+   [
+    "2026-10-19",
+    37.12
+   ],
+   [
+    "2026-10-25",
+    37.68
+   ],
+   [
+    "2026-10-30",
+    38.85
+   ],
+   [
+    "2026-11-04",
+    34.72
+   ],
+   [
+    "2026-11-09",
+    34.75
+   ],
+   [
+    "2026-11-15",
+    16.16
+   ]
+  ]
+ },
+ {
   "key": "amazon_it:B08LG6L1JW",
   "source": "amazon_it",
   "category": "altro",
   "name": "PIECES Pcboss 3/4 Blazer Noos, Blazer Donna, Apple Butter, XL",
   "price": 15.16,
-  "ref": 33.4,
+  "ref": 33.39,
   "pct": 54.6,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B08LG6L1JW?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/31SQElnxAmL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-09-01",
@@ -4187,7 +4216,7 @@
   "url": "https://onestreet.it/products/shorts-nike-5?variant=47022177976659",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/0a0b3930480811eeae250b901a1db57b.jpg?v=1693490988",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4212,7 +4241,7 @@
   "url": "https://onestreet.it/products/shorts-nike-4?variant=47022093500755",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/95faa860480611eeae250b901a1db57b.jpg?v=1693490366",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4237,7 +4266,7 @@
   "url": "https://onestreet.it/products/adidas-gazelle-blue-cloud-white-gold-metallic?variant=50449979801939",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/adidas-Gazelle-Blue-Cloud-White-Gold-Metallic-Product.jpg?v=1740065756",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4255,14 +4284,14 @@
   "category": "altro",
   "name": "SEAC Motus, Pinne Lunghe per Immersioni, apnea e Pesca Subacquea ricreativa e da Gara, Verde, 36/38",
   "price": 39.0,
-  "ref": 85.76,
+  "ref": 85.74,
   "pct": 54.5,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B0775RN88Z?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/41Ybbtwq20L.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-09-19",
@@ -4363,7 +4392,7 @@
   "url": "https://onestreet.it/products/jordan-1-mid-university-blue-grey?variant=46676589543763",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Air-Jordan-1-Mid-University-Blue-Grey-Product.webp?v=1685621848",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4381,14 +4410,14 @@
   "category": "altro",
   "name": "Triumph Donna Lovely Minimizer W X, Minimizer bra, VANILLE, 6E",
   "price": 18.73,
-  "ref": 40.27,
+  "ref": 40.26,
   "pct": 53.5,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B003YAWBX2?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/41qpKbgZvFL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-08-25",
@@ -4454,14 +4483,14 @@
   "category": "altro",
   "name": "Jenny Sesal - ARREDATUTTO telo copritutto Gran Foulard (Matrimoniale, Giglio Tortora)",
   "price": 18.9,
-  "ref": 40.54,
+  "ref": 40.53,
   "pct": 53.4,
   "level": "offerta",
   "shop": "Amazon.it",
   "url": "https://www.amazon.it/dp/B0FCV29P7J?tag=offertecrolla-21",
   "image": "https://m.media-amazon.com/images/I/41sNEYDG6yL.jpg",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-08-19",
@@ -4506,7 +4535,7 @@
   "url": "https://onestreet.it/products/nike-dunk-low-dark-driftwood-w?variant=46680067932499",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Nike-Dunk-Low-Dark-Driftwood-W-Product.webp?v=1685707648",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4531,7 +4560,7 @@
   "url": "https://onestreet.it/products/nike-dunk-low-yellow-strike-womens?variant=50481640210771",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/files/Nike-Dunk-Low-Strike-Yellow-W-Product.jpg?v=1740586105",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4556,7 +4585,7 @@
   "url": "https://onestreet.it/products/nike-dunk-low-white-paisley-w?variant=46678099919187",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Nike-Dunk-Low-White-Paisley-W.webp?v=1685637181",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4581,7 +4610,7 @@
   "url": "https://onestreet.it/products/nike-dunk-low-next-nature-phantom-w-special?variant=50450302009683",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Nike-Dunk-Low-Next-Nature-Light-Curry-W.webp?v=1685713505",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4606,7 +4635,7 @@
   "url": "https://onestreet.it/products/nike-dunk-low-fossil-rose-special?variant=50450018599251",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Nike-Dunk-Low-Fossil-Rose.webp?v=1685637152",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
@@ -4631,7 +4660,32 @@
   "url": "https://onestreet.it/products/nike-dunk-low-emb-nba-75th-anniversary-chicago-gs-special?variant=50449398595923",
   "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Nike-Dunk-Low-EMB-NBA-75th-Anniversary-Chicago-GS.jpg?v=1685634770",
   "currency": "EUR",
-  "at": "2026-11-15T17:29",
+  "at": "2026-11-15T18:20",
+  "history": [
+   [
+    "2026-11-14",
+    70.0
+   ],
+   [
+    "2026-11-15",
+    70.0
+   ]
+  ]
+ },
+ {
+  "key": "shopify_onestreet_it:50448934109523",
+  "source": "shopify_onestreet_it",
+  "category": "altro",
+  "name": "Nike Dunk High Cashmere Lemon Twist (Donna) (Special) (EU 36)",
+  "price": 70.0,
+  "ref": 150.0,
+  "pct": 53.3,
+  "level": "offerta",
+  "shop": "Onestreet",
+  "url": "https://onestreet.it/products/nike-dunk-high-cashmere-lemon-twist-w-special?variant=50448934109523",
+  "image": "https://cdn.shopify.com/s/files/1/0726/5845/2819/products/Nike-Dunk-High-Lemon-Twist-W-Product.jpg?v=1685619644",
+  "currency": "EUR",
+  "at": "2026-11-15T18:20",
   "history": [
    [
     "2026-11-14",
